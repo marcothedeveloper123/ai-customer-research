@@ -8,20 +8,23 @@ from textual.widgets.tree import TreeNode
 class NavigationTree(Tree):
     """Navigation tree for browsing analysis structure."""
 
-    def on_mount(self) -> None:
-        """Initialize the navigation tree."""
+    def __init__(self, *args, **kwargs):
+        """Initialize the navigation tree with label."""
+        # Tree requires a label parameter
+        super().__init__("📊 Analysis", *args, **kwargs)
         self.show_root = True
         self.guide_depth = 4
 
+    def on_mount(self) -> None:
+        """Initialize the navigation tree."""
         # Build the tree structure
         self.build_tree()
 
     def build_tree(self) -> None:
         """Build the navigation tree from analysis data."""
         try:
-            # Root node
+            # Root node (already set in __init__)
             root = self.root
-            root.set_label("📊 Analysis")
             root.expand()
 
             # Add Report node
