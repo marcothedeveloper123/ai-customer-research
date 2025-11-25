@@ -1,4 +1,0 @@
-ollama
-pathlib
-json
-python-docx

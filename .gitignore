@@ -95,3 +95,12 @@ models/*.ckpt
 # Documentation builds
 docs/_build/
 site/
+
+# Sensitive project files - DO NOT COMMIT
+PRD.md
+AI for Customer Research Nov 2025/
+AI for Customer Research Nov 2025.zip
+AI for Customer Research Transcripts July 2025/
+AI for Customer Research Interview Guide July 2025.md
+Project 2 Instructions AI-Powered Analysis Nov 2025.md
+llm_analysis/
