@@ -1,6 +1,4 @@
 ollama
-pathlib
-json
 python-docx
 
 # TUI Dependencies
