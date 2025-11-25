@@ -1,0 +1,78 @@
+{
+  "enableConversationTyping": true,
+  "allowedTools": [
+    "read",
+    "write",
+    "edit",
+    "grep",
+    "glob",
+    "bash",
+    "webfetch",
+    "websearch",
+    "task",
+    "todomanager"
+  ],
+  "allowedBashCommands": [
+    "python",
+    "python3",
+    "pip",
+    "pip3",
+    "pytest",
+    "ollama",
+    "git",
+    "ls",
+    "cat",
+    "grep",
+    "find",
+    "mkdir",
+    "cp",
+    "mv",
+    "rm"
+  ],
+  "disallowedTools": [],
+  "disallowedBashCommands": [
+    "sudo",
+    "rm -rf /",
+    "dd",
+    "mkfs"
+  ],
+  "alwaysApproveTools": [
+    "read",
+    "grep",
+    "glob"
+  ],
+  "alwaysApproveBashCommands": [
+    "python -m pytest",
+    "pytest",
+    "ollama list",
+    "ollama show",
+    "git status",
+    "git diff",
+    "git log"
+  ],
+  "autoApprovalSettings": {
+    "enableAutoApproval": true,
+    "autoApproveReadOperations": true,
+    "autoApproveGitReadCommands": true,
+    "requireApprovalForWrite": false,
+    "requireApprovalForDelete": true
+  },
+  "projectSpecific": {
+    "python": {
+      "version": "3.9+",
+      "virtualenv": "venv",
+      "testCommand": "pytest tests/",
+      "lintCommand": "flake8 src/"
+    },
+    "ollama": {
+      "defaultModel": "llama2",
+      "host": "http://localhost:11434",
+      "timeout": 120
+    }
+  },
+  "customCommands": {
+    "analyze": ".claude/commands/analyze.md",
+    "test": ".claude/commands/test.md",
+    "debug": ".claude/commands/debug.md"
+  }
+}

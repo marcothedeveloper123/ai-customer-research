@@ -1,0 +1,86 @@
+{
+  "participant_id": "en_response_0015.txt",
+  "key_behaviors": [
+    "Uses AI tools (Google Gemini, Microsoft Copilot, ChatGPT) daily for personal tasks",
+    "Queries AI for quick factual summaries and then follows up with deeper research (e.g., Wikipedia links)",
+    "Leverages AI to plan detailed vacation itineraries, including minute‑by‑minute schedules and travel times",
+    "Exports AI‑generated itineraries as PDFs and imports/edits them",
+    "Uses AI for everyday conversions, measurements, and simple scheduling charts",
+    "Relies on AI at work for testing code and occasional code generation",
+    "Attempts creative tasks with AI (music lesson planning, riff generation) and notes when it fails"
+  ],
+  "pain_points": [
+    "AI can hallucinate or provide inaccurate facts, requiring user verification",
+    "Creative prompts get stuck on the same suggestion (e.g., music riff) and lack true novelty",
+    "Model lacks training data for specific frameworks, leading to failed code generation",
+    "Limited ability to organize information in a way that matches the user’s personal workflow",
+    "Potential intrusiveness of notifications; desire for control over when AI interrupts",
+    "Current tools do not automate routine purchases (groceries, pet food) or bill payments with a safety layer",
+    "Interview with AI felt one‑way; lack of immediate feedback or “bounce‑off” interaction"
+  ],
+  "trust_factors": [
+    "Moderate trust level (rated 3) – sees AI as a starting point rather than final authority",
+    "Cross‑checks AI summaries with external sources (links, Wikipedia) before acting",
+    "Desires a security/verification layer for financial actions (e.g., flagging unusual transactions)",
+    "Prefers AI that integrates with existing calendars and emails but still leaves final decisions to the user"
+  ],
+  "desires": [
+    "Seamless, non‑intrusive integration with calendar, email, and a central hub for all personal data",
+    "Automatic ordering of recurring items (groceries, pet food) with user‑set priority levels",
+    "AI‑driven bill‑paying assistance that double‑checks amounts and flags anomalies while keeping the user in control",
+    "Interactive, conversational capability that allows follow‑up questions and “bouncing ideas off” the assistant",
+    "Ability to generate and export ready‑to‑use documents (PDF itineraries, meeting schedules) directly into personal workflows",
+    "Fine‑grained control over notification frequency and modality (phone notification vs. voice interruption)"
+  ],
+  "verbatim_quotes": [
+    {
+      "quote": "I use Gemini for any kind of random tidbit of fact that I've kind of either am currently discussing about or just to have any kind of questions about it.",
+      "topic": "Fact‑checking / quick information lookup"
+    },
+    {
+      "quote": "I did use it to kind of help me organize a itinerary… it’s pretty good at suggest suggesting, like, not only produce suggestions, but to help fill up, like, blank spots and itinerary… down to the minute‑by‑minute detail.",
+      "topic": "Vacation planning and detailed itinerary generation"
+    },
+    {
+      "quote": "It just gives a nice summary about, like, the details on it. And then I'll follow‑up with that through either going to, like, a Wiki link and finding more information there.",
+      "topic": "Using AI as an onboarding summary before deeper research"
+    },
+    {
+      "quote": "I was trying to make a music lesson plan… it kept suggesting me the same model or started the same riff.",
+      "topic": "Creative task limitation / lack of novelty"
+    },
+    {
+      "quote": "The decoding issue… the model hasn't been run or trained on that data, it needs more training.",
+      "topic": "Technical limitation in code generation"
+    },
+    {
+      "quote": "I would say it definitely doesn't hinder me too much because it invites me to engage in the creative process myself.",
+      "topic": "Attitude toward AI failures in creative tasks"
+    },
+    {
+      "quote": "On average, how much do you trust the results… 3 - Moderate trust",
+      "topic": "Self‑reported trust level"
+    },
+    {
+      "quote": "It would have to pretty seamlessly, like, be integrated into my daily life… not so intrusive as where it's constantly… I would need to be in control of that myself.",
+      "topic": "Desire for seamless yet controllable integration"
+    },
+    {
+      "quote": "If it could automatically order groceries… that would be pretty ideal… a good mixture of, like, a reminder and automation.",
+      "topic": "Automation of routine purchases"
+    },
+    {
+      "quote": "Having something to double‑check is helpful… I still check my banking statement monthly, but being able to catch it right when it happens might help prevent it…",
+      "topic": "Financial safety layer and double‑checking"
+    },
+    {
+      "quote": "The experience is a little bit different… there's a lack of feedback; it's just me talking into the void… I need something to bounce off of.",
+      "topic": "Need for interactive dialogue in AI interactions"
+    },
+    {
+      "quote": "Having facts bombarded at you… it's information overload. If you don't get that beat to absorb what you have or if I have a question, you should be able to ask about it and have it come back at you.",
+      "topic": "Preference for two‑way conversational flow"
+    }
+  ],
+  "unique_insights": "The participant repeatedly emphasizes the need for an AI that acts as a \"personal sounding board\"—a tool they can \"bounce\" ideas off of, both in creative contexts (music lesson planning) and everyday decision‑making (financial alerts). This desire for interactive, bidirectional dialogue is framed as essential for processing information without overload, and it surfaces even when discussing the AI‑driven interview itself. While they express moderate trust and acknowledge hallucinations, they are willing to accept AI as a fast, integrative assistant so long as it remains controllable, non‑intrusive, and provides a safety net for routine, repetitive tasks."
+}

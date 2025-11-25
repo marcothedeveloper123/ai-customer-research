@@ -1,0 +1,34 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "text": "Excellent product! Really exceeded my expectations.",
+      "source": "survey",
+      "date": "2024-01-15"
+    },
+    {
+      "id": 2,
+      "text": "Disappointed with the quality. Not worth the price.",
+      "source": "review",
+      "date": "2024-01-16"
+    },
+    {
+      "id": 3,
+      "text": "Average experience. Nothing particularly good or bad.",
+      "source": "survey",
+      "date": "2024-01-17"
+    },
+    {
+      "id": 4,
+      "text": "Customer service was amazing! Very helpful and responsive.",
+      "source": "feedback",
+      "date": "2024-01-18"
+    },
+    {
+      "id": 5,
+      "text": "Product broke after two weeks. Very frustrating.",
+      "source": "review",
+      "date": "2024-01-19"
+    }
+  ]
+}

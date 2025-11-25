@@ -1,0 +1,90 @@
+{
+  "participant_id": "en_response_0010.txt",
+  "key_behaviors": [
+    "Uses AI weekly for personal tasks",
+    "Leverages AI for complex health research and quick, well‑sourced answers",
+    "Uses AI to plan outings (hikes, trips) by gathering options, distances, and nearby amenities",
+    "Employs AI for writing assistance – improving drafts, generating ideas, or creating text from scratch",
+    "Copies AI‑generated summaries or option lists into messages for friends",
+    "Cherry‑picks useful phrases from AI output and then edits to retain personal voice"
+  ],
+  "pain_points": [
+    "AI writing assistance sometimes produces output that feels inauthentic or not aligned with personal voice",
+    "Dissatisfaction with AI output may stem from poor prompting or limited contextual understanding",
+    "Lack of transparent sourcing and quality‑assurance makes it hard to trust AI for important decisions",
+    "Uncertainty about how to verify AI‑provided sources without spending extra time",
+    "Reluctance to integrate AI with personal systems (calendar, email) due to privacy or control concerns"
+  ],
+  "trust_factors": [
+    "High overall trust rating (4/5) despite concerns",
+    "Desire for well‑sourced answers that can be independently verified",
+    "Preference for a human‑in‑the‑loop or other vetting mechanism to guard against over‑trust",
+    "Confidence grows when AI delivers fast, accurate summaries that match manual research"
+  ],
+  "desires": [
+    "An assistant that handles disliked tasks (research, planning) without sacrificing accuracy",
+    "Built‑in quality assurance, possibly with human review, to ensure trustworthiness",
+    "Clear citation of sources so the user can quickly assess credibility",
+    "Ability to preserve the user’s personal voice while offering concise phrasing options",
+    "Optional, controlled integration with calendars or email only if it adds clear value"
+  ],
+  "verbatim_quotes": [
+    {
+      "quote": "I use AI tools sometimes for tasks that require more complex research. These are things that would take me a longer time to research on my own. For example, if I have a health-related question, I want an answer that considers multiple sources of research or a quick but well-researched answer to something like that, such as a health question or how to handle a specific situation.",
+      "topic": "usage contexts – health research"
+    },
+    {
+      "quote": "I've also used it for planning, like finding options for a local hike or outing, factoring in distance, nearby restaurants or coffee shops, and the length of the hike.",
+      "topic": "usage contexts – trip/outdoor planning"
+    },
+    {
+      "quote": "It does so in a much faster amount of time and presents it back in a great summary format.",
+      "topic": "value – speed and summarization"
+    },
+    {
+      "quote": "When I use AI for trip planning, I was strapped for time while trying to meet up with a friend for an afternoon. I kind of knew what we wanted but didn't have a lot of time to research it. I also wanted to share options with her. So, I did some research and provided a short summary that I could easily copy.",
+      "topic": "example of speed saving"
+    },
+    {
+      "quote": "Sometimes when I have to try to use it for writing assistance, I don't really like what I get out of it, and I maybe prefer what I could do by hand.",
+      "topic": "pain point – writing dissatisfaction"
+    },
+    {
+      "quote": "I think the writing assistance falls short when I'm working on something where one of the highest values is authenticity. I don't want to lose my personal voice in it.",
+      "topic": "pain point – authenticity"
+    },
+    {
+      "quote": "I just cherry-pick the best phrases. If I find something in there that I do like, as far as a phrase, maybe it's more concise than what I did, but still keeps my voice. I'll pull a couple of phrases that I like, but then go back and just kind of re-edit my own thing.",
+      "topic": "workaround for voice preservation"
+    },
+    {
+      "quote": "4 - High trust",
+      "topic": "trust rating"
+    },
+    {
+      "quote": "It would be really well-sourced so that it could give me true confidence, which would help build trust.",
+      "topic": "desired trust factor – sourcing"
+    },
+    {
+      "quote": "I've heard that people have started to put a higher amount of trust in AI once they're working with it than is maybe earned or warranted, and I could maybe fall into that same trap. So I think if there were ways it could legitimately ensure trustworthiness, that would be a true value.",
+      "topic": "trust concern – trust trap"
+    },
+    {
+      "quote": "I think sourcing is one thing, but it also takes time and requires me to be knowledgeable about the sources. So I'm not really sure.",
+      "topic": "pain point – verification effort"
+    },
+    {
+      "quote": "I'm not sure that I want to connect with those systems.",
+      "topic": "reluctance to integrate with calendar/email"
+    },
+    {
+      "quote": "I thought it had a decent flow to it. I didn't mind it, and it didn't make me hold back or anything.",
+      "topic": "comfort with AI interview"
+    },
+    {
+      "quote": "Well, I think you're missing the human kind of back-and-forth of a natural conversation where you get a head nod, just nonverbal feedback, basically. But I do think that AI was good at acknowledging the last answer and following up in a logical way, so that was good.",
+      "topic": "feedback on AI interview experience"
+    }
+  ],
+  "unique_insights": "The participant reports high overall trust in AI (rating 4/5) yet simultaneously worries about a \"trust trap\" where over‑reliance could be unjustified. Their primary friction point is not the lack of functionality but the inability of AI to guarantee source credibility and preserve personal voice, leading them to manually cherry‑pick and edit AI output. They are also ambivalent about deep integration with personal productivity tools, preferring optional, controlled connections only if clear benefits are demonstrated."
+}

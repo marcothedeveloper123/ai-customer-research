@@ -1,0 +1,77 @@
+*Q1*
+MODERATOR: Z jakich narzędzi AI korzystałeś(-aś) w ciągu ostatnich 3 miesięcy do prywatnych celów (nie związanych z pracą)? Zaznacz wszystkie, które dotyczą.
+PARTICIPANT: ChatGPT, Microsoft Copilot
+
+*Q2*
+MODERATOR: Jak często korzystasz z narzędzi AI do prywatnych spraw?
+PARTICIPANT: Raz w tygodniu
+
+*Q3*
+MODERATOR: Chciałbym teraz lepiej zrozumieć, jak zwykle korzystasz z AI i gdzie obecne narzędzia nie spełniają oczekiwań...
+PARTICIPANT: Dalej
+
+*Q4*
+MODERATOR: Do jakich najczęstszych prywatnych zadań używasz AI? Opowiedz o kilku przykładach.
+
+PARTICIPANT: Ja używam AI do wykonania skrótu artykułów, które mnie interesują, żeby wybrać ważniejsze elementy jako pomoc w wyszukiwaniu ciekawych miejsc na wycieczki rowerowe oraz jako pomoc w technikach wykonania prac przy domu.
+
+MODERATOR: Wspomniałeś o wyszukiwaniu miejsc na wycieczki rowerowe. Jak dokładnie wykorzystujesz AI do planowania tras?
+
+PARTICIPANT: Podaję miejsce docelowe i w odpowiedzi oczekuję ciekawych miejsc, które w niedalekiej odległości od tego miejsca docelowego się znajdują. Te miejsca umieszczam w planowanej trasie.
+
+MODERATOR: Wspomniałeś też o pracach przy domu. Jakie konkretnie zadania wykonujesz z pomocą AI w tym zakresie?
+
+PARTICIPANT: Podaję, co jest do wykonania i oczekuję w odpowiedzi, jakie materiały i narzędzia będą mi potrzebne.
+
+*Q5*
+MODERATOR: Opowiedz o sytuacji, kiedy chciałeś(-aś) skorzystać z AI, ale nie mogłeś(-aś). Jakie to było zadanie? Co uniemożliwiło Ci użycie AI?
+
+PARTICIPANT: Chciałem wypełnić przestrzeń między ramą okna a ścianami po wymianie i nie potrafiłem uzyskać informacji, jakiego materiału należy użyć.
+
+MODERATOR: Co dokładnie utrudniło Ci uzyskanie odpowiedniej informacji od AI w tej sytuacji?
+
+PARTICIPANT: Ze względu na różne podłoże, nie uzyskałem informacji na temat konkretnego materiału, który należy użyć.
+
+*Q6*
+MODERATOR: Jak bardzo ufasz wynikom lub sugestiom, które otrzymujesz od narzędzi AI?
+
+PARTICIPANT: 3 – Ufam umiarkowanie
+
+*Q7*
+MODERATOR: Na koniec chciałbym dowiedzieć się, jak według Ciebie powinien wyglądać idealny asystent AI...
+PARTICIPANT: Dalej
+
+*Q8*
+MODERATOR: Wyobraź sobie, że masz idealnego osobistego asystenta AI. Jakie najważniejsze rzeczy powinien dla Ciebie robić? Czym byłby lepszy od obecnych narzędzi?
+
+PARTICIPANT: Idealny asystent AI powinien nie tylko potrafić odpowiedzieć na pytanie, ale również znaleźć na przykład materiały wideo, które odpowiadają na takie pytanie lub dają konkretne rozwiązania dla danego problemu.
+
+MODERATOR: Wspomniałeś o materiałach wideo. Jakie inne formy pomocy czy zasobów powinien oferować idealny asystent AI?
+
+PARTICIPANT: Powinien potrafić wskazać konkretne produkty lub materiały, których jakość jest potwierdzona przez użytkowników.
+
+*Q9*
+MODERATOR: Jak taki asystent AI mógłby być połączony z innymi systemami, z których korzystasz (np. kalendarz, e-mail itp.)? Co by Ci to umożliwiło?
+
+PARTICIPANT: Umożliwiłoby to lepsze zarządzanie informacjami, umieszczanie ich w kalendarzu oraz zarządzanie projektami w czasie.
+
+MODERATOR: Mógłbyś podać konkretny przykład, jak chciałbyś, żeby asystent AI pomagał Ci w zarządzaniu projektami w czasie?
+
+PARTICIPANT: Znając zakres zadania, mógłby zaplanować i umieścić w kalendarzu informacje pozwalające na wykonanie danej rzeczy.
+
+*Q10*
+MODERATOR: Zanim skończymy, chciałbym poznać Twoje wrażenia z rozmowy z AI...
+
+PARTICIPANT: Dalej
+
+*Q11*
+MODERATOR: Jak się czułeś(-aś), odpowiadając na pytania AI zamiast człowieka? Czym to doświadczenie różniło się od rozmowy z osobą?
+
+PARTICIPANT: Na razie trudno się przyzwyczaić do takiej rozmowy, ponieważ nie jest to taka sama interakcja jak rozmowa z człowiekiem, chociażby z tego powodu, że nie widać po drugiej stronie reakcji.
+
+MODERATOR: Wspomniałeś o braku reakcji z drugiej strony. Jak to wpływa na Twoją szczerość i otwartość w odpowiedziach?
+
+PARTICIPANT: Brak reakcji nie wpływa na otwartość lub szczerość w odpowiedziach, wymaga tylko przyzwyczajenia się do tego, że po drugiej stronie nie ma natychmiastowej reakcji, chociażby mimiki twarzy.
+
+*Q12*
+MODERATOR: Dziękujemy za podzielenie się swoimi doświadczeniami i opiniami na temat narzędzi AI! Twoje odpowiedzi pomogą nam tworzyć lepszych asystentów AI, którzy naprawdę odpowiadają na potrzeby ludzi.

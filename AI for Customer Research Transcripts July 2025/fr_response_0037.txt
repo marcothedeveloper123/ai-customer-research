@@ -1,0 +1,78 @@
+*Q1*
+MODERATOR: Quels outils d’IA avez-vous utilisés pour des tâches personnelles (hors travail) au cours des 3 derniers mois ? Sélectionnez tout ce qui s’applique.
+PARTICIPANT: ChatGPT
+
+*Q2*
+MODERATOR: À quelle fréquence utilisez-vous des outils d’IA à titre personnel ?
+PARTICIPANT: Moins d’une fois par mois
+
+*Q3*
+MODERATOR: J’aimerais maintenant en savoir plus sur vos habitudes d’utilisation de l’IA et sur les limites des outils actuels…
+PARTICIPANT: Continuer
+
+*Q4*
+MODERATOR: Pour quels types de tâches personnelles utilisez-vous le plus souvent l'IA ? Donnez-moi quelques exemples concrets.
+
+PARTICIPANT: J'utilise l'IA pour trouver des recettes de cuisine avec ce que j'ai dans mon frigo, pour m'aider à écrire des emails quand j'ai besoin d'un ton ou d'une formulation de phrase particulière que je n'arrive pas à trouver. J'ai parfois un peu de mal à trouver, et cela m'aide aussi à trouver des itinéraires, des restaurants ou des centres d'intérêt quand je pars en vacances.
+
+MODERATOR: Parlez-moi plus en détail de comment vous utilisez l'IA pour la planification de voyages. Quel type d'aide recherchez-vous exactement ?
+
+PARTICIPANT: Je vais lui poser des questions sur la destination et, par exemple, utiliser les prompts du Tilt : "Trouve-moi un restaurant près de la plage, ouvert un samedi soir, où je peux déguster à la fois des fruits de mer et de la viande pour mon compagnon."
+
+MODERATOR: Vous avez mentionné l'utilisation de l'IA pour les recettes. Comment l'IA vous aide-t-elle exactement dans ce domaine ?
+
+PARTICIPANT: Pour les recettes, je vais dire à Liya quels sont les éléments que j'ai dans mon frigo et dans mon placard. Je vais lui dire que je cherche une recette saine prête en moins de 30 minutes. Si jamais la recette que j'obtiens ne me convient pas, je vais lui demander d'essayer d'autres recettes.
+
+*Q5*
+MODERATOR: Racontez-moi une fois où vous auriez voulu utiliser l'IA mais n'avez pas pu. Quelle était la tâche ? Qu'est-ce qui vous en a empêché ?
+
+PARTICIPANT: C'était pas une tâche personnelle, mais une tâche professionnelle. Je devais définir des équipes aléatoires et j'avais fourni une liste de noms et de prénoms avec l'équipe dans laquelle les personnes étaient. Je lui ai demandé de me faire des équipes où il y avait au moins une personne précise dans chaque équipe. Par exemple, j'avais John de l'équipe produit et Mathilde de l'équipe tech, ainsi que plein d'autres noms de l'équipe produit et de l'équipe tech. Je lui ai dit de me faire des équipes de six avec au moins trois personnes de l'équipe produit et trois personnes de l'équipe tech. Je n'ai pas réussi car le fichier était trop gros, il y avait deux cent cinquante noms, et il m'a dit que le fichier était trop gros et qu'avec la version gratuite, je ne pouvais pas faire ce que je voulais. Donc, j'ai dû le faire manuellement.
+
+MODERATOR: Avez-vous cherché d'autres solutions d'IA qui auraient pu gérer cette tâche de création d'équipes, ou était-ce la limitation de taille qui était le problème principal ?
+
+PARTICIPANT: Alors oui, j'ai essayé de chercher d'autres solutions d'IA. Je suis passée notamment par Gemini. La limitation de taille n'était plus le problème principal. Du coup, le problème, c'est juste qu'il m'a créé des listes avec beaucoup de doublons. Par exemple, on avait deux fois Mathilde dans la même équipe, ou Mathilde était dans trois équipes différentes, donc c'était impossible. J'ai quand même dû repasser et le refaire 100 % moi-même, parce qu'en fait, c'était trop long de m'assurer que chaque équipe était correcte. C'était plus rapide de le faire moi-même et de repartir à zéro.
+
+*Q6*
+MODERATOR: À quel point faites-vous confiance aux résultats ou suggestions fournis par les outils d'IA ?
+
+PARTICIPANT: 2 - Faible confiance
+
+*Q7*
+MODERATOR: Pour finir, j’aimerais savoir à quoi ressemblerait pour vous l’assistant IA idéal…
+PARTICIPANT: Continuer
+
+*Q8*
+MODERATOR: Imaginez que vous disposiez d'un assistant personnel IA parfait. Quelles seraient les choses les plus importantes qu'il ferait pour vous ? En quoi serait-il meilleur que les outils actuels ?
+
+PARTICIPANT: Pour moi, une boîte personnelle parfaite serait celle qui m'aiderait dans ma vie personnelle à gérer ma charge mentale, notamment en me permettant de gagner du temps, par exemple pour faire les courses ou pour planifier des rendez-vous chez le médecin ou chez le vétérinaire. Elle m'enregistrerait mes alertes automatiquement dans mon calendrier, avec des rappels au bon moment pour me rappeler ce que je dois faire. En fait, globalement, c'est quelqu'un qui prendrait des initiatives, plus qu'un assistant qui attendrait que je lui dise de faire les choses. En quoi serait-il meilleur que les outils actuels ? Je pense que c'est justement la partie proactivité versus passivité.
+
+MODERATOR: Vous avez mentionné la proactivité comme amélioration clé. Pouvez-vous me donner des exemples concrets de comment cet assistant IA idéal prendrait des initiatives de manière proactive ?
+
+PARTICIPANT: Un exemple concret serait que je remarque qu'il n'y a plus de beurre dans le frigo, et j'ajoute donc du beurre à ma liste de courses. La productivité serait que, via mon application de drive, il ajoute directement le beurre dans mon panier, sachant que c'est le beurre que j'achète habituellement, puisqu'il le sait. C'est le même principe pour les rendez-vous médicaux. Par exemple, analyser le fait que je vais chez le coiffeur toutes les six semaines et me rappeler de prendre rendez-vous quelques semaines avant, en enregistrant automatiquement les rendez-vous dans mon calendrier et en ayant des rappels la veille, par exemple une heure avant. En gros, c'est scanner mes habitudes de vie pour me simplifier la vie et me proposer des initiatives qui sont alignées avec mon mode de vie habituel, que ce soit pour les courses, les recettes, ou les rendez-vous chez l'esthéticienne, le coiffeur, le médecin, etc., quand ce sont des choses habituelles qui reviennent sans arrêt.
+
+MODERATOR: Vous avez parlé de l'IA qui analyserait vos habitudes. Comment aimeriez-vous que l'IA gère les exceptions ou les changements dans votre routine ?
+
+
+PARTICIPANT: En cas de changement de routine, par exemple, si Sylvia voit que le crayon est bouché, le coiffeur ne vient pas toutes les 6 semaines mais toutes les 8 semaines, qu'il me pose la question de savoir si je veux garder cette nouvelle habitude et du coup caler tous mes futurs rendez-vous sur 8 semaines, ou si c'est exceptionnel et qu'il doit garder sa routine habituelle en dehors de cet événement.
+
+*Q9*
+MODERATOR: Vous avez déjà mentionné l'agenda et les courses. Comment l'IA pourrait-elle être connectée aux autres systèmes que vous utilisez ? Qu'est-ce que cela vous permettrait de faire ?
+
+PARTICIPANT: Globalement, l'objectif serait qu'effectivement l'IA soit connectée, par exemple, à mon agenda, à ma liste de courses, à mon application Drive, à mon application Planity pour le coiffeur ou pour les rendez-vous habituels, comme l'esthéticienne, etc. Cela permettrait à l'IA d'être proactive dans la prise de rendez-vous et dans les rappels. Pour la cuisine, globalement, nous mangeons régulièrement la même chose, donc qu'elle soit connectée à mon application Notes où j'ai toutes mes recettes, afin que je puisse avoir des recettes pertinentes par rapport à mes goûts, qu'elle connaît grâce à toutes les recettes que j'ai déjà enregistrées. C'est ce que j'aime et ce que je veux manger, donc pousser des recettes en fonction de ces goûts-là et ajouter tous les ingrédients directement dans mon Drive pour me faire gagner du temps et alléger ma charge mentale.
+
+*Q10*
+MODERATOR: Avant de conclure, j'aimerais avoir votre ressenti sur le fait d'être interviewé par une IA…
+
+PARTICIPANT: Continuer
+
+*Q11*
+MODERATOR: Qu'avez-vous ressenti en étant interviewé par une IA plutôt que par un humain ? Qu'est-ce qui a différé dans cette expérience ?
+
+PARTICIPANT: Je pense que l'IA est moins spontanée que l'humain. Elle reste sur un script déjà donné, tandis que l'humain va rebondir sur mes expressions, sur les émotions et sur les non-dits de ma phrase pour poser des questions encore plus ciblées. L'IA, quant à elle, va rester un peu plus dans son script.
+
+MODERATOR: Vous dites que l'IA est moins spontanée. Comment cela affecte-t-il la qualité des réponses que vous donnez ?
+
+PARTICIPANT: je ne [sais] pas [globalement] j'ai l'impression que les questions [vont] peut-être un peu redondantes par rapport aux premières questions on est incapable de lui demander [de] préciser certaines choses du coup je [ne] sais pas si par exemple là j'ai carrément oublié de dire que l'ia pourrait aussi m'aider dans la gestion de tous mes emails dans la gestion de prise de rendez-vous par rapport avec la banque si la banque [me] vend un email pour me proposer un rendez-vous [que] [soit] [quand] même [regardez] dans mon agenda si je suis disponible [et] si c'est le cas de pouvoir me proposer d'envoyer [des] [mails] à ma place pour valider le rendez-vous avec la banque etc je trouve que du coup c'est [un] petit peu plus [un] petit peu plus cadré mais pas forcément dans le bon sens du terme puisque ça empêche une spontanéité de [nos] côtés et de creuser certaines réponses qui pourraient être intéressantes pour l'humain
+
+*Q12*
+MODERATOR: Merci d'avoir partagé vos expériences et vos avis sur les outils d'IA ! Vos retours nous aideront à créer de meilleurs assistants IA, vraiment adaptés aux besoins des gens.

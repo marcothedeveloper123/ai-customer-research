@@ -1,0 +1,89 @@
+{
+  "participant_id": "en_response_0018.txt",
+  "key_behaviors": [
+    "Uses multiple AI tools (ChatGPT, Microsoft Copilot, Google Gemini) on a weekly basis for personal tasks",
+    "Creates grocery lists and bi‑weekly task schedules with AI",
+    "Leverages AI to generate multiple list and chart formats to visualize options",
+    "Relies on AI to explore scheduling alternatives for extracurricular activities",
+    "Wishes AI could automatically generate a full weekly schedule that includes work and leisure"
+  ],
+  "pain_points": [
+    "Current AI tools cannot map out structured break times within timed tasks",
+    "Low confidence in AI suggestions (trust rating of 2/5)",
+    "Perceived lack of integration with existing calendar/email systems (sees no added value)",
+    "Discomfort with AI‑driven interview format leading to limited disclosure"
+  ],
+  "trust_factors": [
+    "Low trust overall (rating 2 – Low trust)",
+    "Perception that AI does not yet exist for certain niche functions (e.g., break‑timing)",
+    "Absence of human warmth or interaction reduces confidence in AI outputs"
+  ],
+  "desires": [
+    "An AI assistant that automatically creates a complete weekly schedule covering work and leisure",
+    "Ability to “jump into” tasks immediately without manual planning",
+    "Seamless connection to personal calendar to enable schedule generation (even though participant said “nothing”, the desire for integration is implied)"
+  ],
+  "verbatim_quotes": [
+    {
+      "quote": "ChatGPT, Microsoft Copilot, Google Gemini",
+      "topic": "AI tools used"
+    },
+    {
+      "quote": "Weekly",
+      "topic": "Frequency of personal AI use"
+    },
+    {
+      "quote": "creating grocery lists and organizing a biweekly schedule for tasks that I need to get done throughout the week.",
+      "topic": "Typical personal tasks"
+    },
+    {
+      "quote": "The AI tools give me a way to create multiple types of lists and charts to see, so I have a full picture of all my options.",
+      "topic": "Value of AI over manual methods"
+    },
+    {
+      "quote": "Creating a weekly schedule based on extracurricular activities, like when I can schedule a dance practice, have a lunch meeting, go to the store, or visit the salon, can show me different options for when I can do these things throughout the week.",
+      "topic": "How AI helps visualize scheduling options"
+    },
+    {
+      "quote": "I wanted to use AI to map out the specific times that I needed to take a break during a timed task, indicating when I should take the break and when I should return. However, I could not do this because AI did not exist yet.",
+      "topic": "Unmet need / pain point"
+    },
+    {
+      "quote": "I find myself not needing a structured schedule very often. It is not much of a problem if I cannot get that guidance.",
+      "topic": "Frequency/importance of break‑timing feature"
+    },
+    {
+      "quote": "2 - Low trust",
+      "topic": "Trust level in AI suggestions"
+    },
+    {
+      "quote": "Create a weekly schedule for me to go to work, schedule in my leisure tasks, and layout the times that work for me.",
+      "topic": "Ideal AI assistant functionality"
+    },
+    {
+      "quote": "I could then easily jump in and do all the tasks rather than having to sit down and think, plan, and organize. I could simply just jump into the tasks.",
+      "topic": "Desired benefit of perfect assistant"
+    },
+    {
+      "quote": "I don't know.",
+      "topic": "Uncertainty about integration specifics"
+    },
+    {
+      "quote": "Nothing.",
+      "topic": "Perceived benefit of calendar connection"
+    },
+    {
+      "quote": "I don't like this very much.",
+      "topic": "Feelings about AI interview"
+    },
+    {
+      "quote": "There is no human interaction or warmth.",
+      "topic": "Reason for discomfort with AI interview"
+    },
+    {
+      "quote": "I am not sharing many details as I would to a person.",
+      "topic": "Impact of AI interview on disclosure"
+    }
+  ],
+  "unique_insights": "The participant exhibits a paradoxical relationship with AI: despite a low trust rating (2/5) and limited confidence in AI's capabilities, they still use AI weekly for routine planning and explicitly desire an AI that eliminates the need for manual scheduling. Their primary frustration is not technical (e.g., poor accuracy) but experiential—missing human warmth in AI interactions, which they feel reduces the richness of their responses and overall engagement."
+}

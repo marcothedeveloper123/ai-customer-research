@@ -1,0 +1,130 @@
+{
+  "participant_id": "en_response_0020.txt",
+  "key_behaviors": [
+    "Uses AI tools (Google Gemini, ChatGPT) less than monthly",
+    "Uses AI for travel planning to aggregate and filter large amounts of information",
+    "Uses AI for recipe ideas but often falls back to trusted websites",
+    "Attempted AI‑generated line art for a custom insulated cup",
+    "Uses AI at work to answer questions, noting source limitations",
+    "Wants AI to integrate with calendar (and optionally email) for reminders and meeting context",
+    "Seeks AI assistance for weekly planning, grocery lists, and breaking down persistent to‑do items",
+    "Values AI as a reflective partner that can ask back‑and‑forth questions to overcome mental blocks"
+  ],
+  "pain_points": [
+    "Need to manually refine prompts and context for recipes, leading to extra effort",
+    "Uncertainty about reliability and completeness of internet sources for travel info",
+    "Back‑and‑forth iteration fatigue when AI does not quickly produce a usable travel itinerary",
+    "AI image generation failed to meet specific design requirements (border, etching detail)",
+    "Reluctance to grant email access due to privacy concerns, limiting integration",
+    "Repetitive follow‑up questions from the AI interview feel “parroting” and annoying",
+    "Medium frustration threshold when the task is unfamiliar or AI returns poor results",
+    "AI sometimes cannot answer because of source limitations"
+  ],
+  "trust_factors": [
+    "Self‑rated moderate trust (3 out of 5)",
+    "Higher trust when AI aggregates consensus from multiple sources (“if you have a lot of people mentioning or commenting on the same thing”)",
+    "Trust linked to perceived ability to filter out unreliable information",
+    "Willingness to keep trying because the participant believes AI will improve over time"
+  ],
+  "desires": [
+    "Assistant that reminds of calendar events (work and social)",
+    "Ability to recall who discussed which topics in past meetings",
+    "Weekly planning support for groceries, meetings, and personal tasks",
+    "Optimization of time and prevention of dropped tasks",
+    "Help breaking down persistent to‑do items into manageable steps",
+    "Reflective dialogue that helps identify and overcome mental blocks",
+    "Integration with calendar (optional email sync) for context‑aware suggestions",
+    "Provision of unique, non‑redundant insights rather than repetitive information"
+  ],
+  "verbatim_quotes": [
+    {
+      "quote": "Google Gemini, ChatGPT",
+      "topic": "AI tools used"
+    },
+    {
+      "quote": "Less than monthly",
+      "topic": "Frequency of personal AI use"
+    },
+    {
+      "quote": "Personal tasks that I've used AI for include planning travel, where there's a lot of information on the Internet that I don't want to sift through.",
+      "topic": "Travel planning use case"
+    },
+    {
+      "quote": "I think with AI, it can scan through internet sources or sources in general much more quickly, and I can refine the types of results that are returned much more easily than I would if I were tracking things in a spreadsheet or a text document.",
+      "topic": "Perceived AI advantage (speed & filtering)"
+    },
+    {
+      "quote": "The tedium is in the repetition, and if I can ask AI to be that filter for me and bring me just the best tidbits, that's worth it because I don't want to spend time reading things over and over again.",
+      "topic": "Value of AI as filter"
+    },
+    {
+      "quote": "I think AI is maybe less useful because I feel like I can get to the recipes I'm interested in in just about the same amount of time.",
+      "topic": "Recipe use case limitation"
+    },
+    {
+      "quote": "When I ask AI to help with recipes, there's a lot of context setting that I might need to do sometimes or a whole bunch of refining.",
+      "topic": "Recipe use case friction"
+    },
+    {
+      "quote": "There was a time I wanted to use AI to generate line art of two people so that I could get it printed on an insulated cup.",
+      "topic": "Failed image‑generation attempt"
+    },
+    {
+      "quote": "Sometimes, I feel the limitation is in my willingness to spend the time refining with the system versus just going through a couple of iterations and then doing the rest myself.",
+      "topic": "Iteration fatigue"
+    },
+    {
+      "quote": "No, it's not a severe frustration. I mean, I could see working with a person being just as frustrating.",
+      "topic": "Frustration level"
+    },
+    {
+      "quote": "3 - Moderate trust",
+      "topic": "Trust rating"
+    },
+    {
+      "quote": "I think a personal assistant would remind me of the things I have scheduled on my calendar, whether work-related or social.",
+      "topic": "Desired reminder function"
+    },
+    {
+      "quote": "It would be able to tell me who I talked to about specific topics, especially at work.",
+      "topic": "Desired conversation tracking"
+    },
+    {
+      "quote": "I would love to have an assistant help me plan my week better in terms of groceries, meetings, and things to do.",
+      "topic": "Weekly planning desire"
+    },
+    {
+      "quote": "I want to know how to optimize my time and avoid dropping the ball on tasks.",
+      "topic": "Time‑optimization desire"
+    },
+    {
+      "quote": "I need help figuring out how to stop moving that to‑do item from day to day, week to week.",
+      "topic": "Persistent to‑do assistance"
+    },
+    {
+      "quote": "Being able to have someone to help me reflect on that, a tool to help me reflect on that, could be helpful with either finishing the items or taking them off the to‑do list.",
+      "topic": "Reflective support"
+    },
+    {
+      "quote": "I think the idea of having a back‑and‑forth helps with getting through the blocks.",
+      "topic": "Back‑and‑forth dialogue value"
+    },
+    {
+      "quote": "For sure, it could connect with my calendar and my email and all that. I'm not sure I'd want it to connect to my email, but the calendar connection would make sense.",
+      "topic": "Integration preferences"
+    },
+    {
+      "quote": "the more detailed the answers got, the more repetitive the follow‑up questions sounded",
+      "topic": "Interview experience – repetitive AI questions"
+    },
+    {
+      "quote": "I am giving more leeway around the oddly repetitive sounding questions.",
+      "topic": "Leeway given to AI vs. human"
+    },
+    {
+      "quote": "Because I don't think AI is at a human level of interviewing just yet. That'll probably change in the near future, but right now, knowing this is an AI, I am giving more leeway around the oddly repetitive sounding questions.",
+      "topic": "Expectation management for AI"
+    }
+  ],
+  "unique_insights": "The participant explicitly grants AI more leeway than a human interviewer, tolerating repetitive or \"parroting\" questions because they view the AI as still immature. They see AI primarily as a high‑volume filter that can surface consensus‑based reliable information, yet they struggle with AI’s inability to retain personal preference history (e.g., recipe sources). Their frustration is not about AI failing outright but about the extra effort required to refine prompts, especially when they already know how to accomplish the task. The desire for reflective, back‑and‑forth dialogue to overcome procrastination‑related blocks is a novel use case that goes beyond simple task automation."
+}

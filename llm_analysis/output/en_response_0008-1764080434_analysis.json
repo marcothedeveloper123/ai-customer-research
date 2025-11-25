@@ -1,0 +1,103 @@
+{
+  "participant_id": "en_response_0008.txt",
+  "key_behaviors": [
+    "Uses AI multiple times per day",
+    "Rewrites emails, texts, and proposals with AI",
+    "Uses AI for code research related to architectural projects",
+    "Relies on AI to make text sound more professional and succinct",
+    "Uses AI as a starting point, then verifies and deep‑dives manually",
+    "Selects both Microsoft Copilot and ChatGPT for personal tasks"
+  ],
+  "pain_points": [
+    "AI often generates incorrect or hallucinated information during code research",
+    "No reliable way to verify AI‑generated answers, leading to reduced reliance",
+    "Low overall trust in AI results (rated 2 – Low trust)",
+    "Need to manually edit or ignore inaccurate AI output",
+    "Current AI tools do not help with multi‑project prioritization or budget monitoring",
+    "Repetition in AI‑driven interview format feels unnatural",
+    "Lack of visual or conversational richness in AI interview (text‑only)"
+  ],
+  "trust_factors": [
+    "Perceived professionalism of AI‑generated text",
+    "AI’s ability to infer intent from draft context",
+    "Need for factual accuracy, especially in code‑related tasks",
+    "Requirement that AI suggestions be verifiable before use",
+    "Consistency and reliability across different task types"
+  ],
+  "desires": [
+    "An AI assistant that can break large projects into milestones and order tasks",
+    "Prioritization engine for juggling 4‑5 concurrent projects with limited resources",
+    "Budget awareness: alerts when design costs exceed budget and recommends adjustments",
+    "Seamless integration with calendar, email, and project‑management software",
+    "Automatic generation of Gantt charts or project timelines quickly and accurately",
+    "Higher factual reliability to reduce need for manual verification",
+    "More natural, less repetitive AI interview experience, possibly with visual avatar"
+  ],
+  "verbatim_quotes": [
+    {
+      "quote": "I use AI to rewrite emails, texts, and proposals. I also use it for code research related to architectural projects.",
+      "topic": "Types of personal tasks using AI"
+    },
+    {
+      "quote": "AI helps create more professional‑sounding text, emails, and proposals. It also streamlines the process, especially when it comes to reviewing codes.",
+      "topic": "Perceived value of AI"
+    },
+    {
+      "quote": "On a recent proposal, there was a limit to the number of pages that were allowed. It took my written rough draft and reduced it down, producing the text more succinctly.",
+      "topic": "Specific benefit – concise rewriting"
+    },
+    {
+      "quote": "A lot of times, it comes up with incorrect information. It seems to summarize text that it's scanning and makes assumptions, leading to statements that just aren't true.",
+      "topic": "Pain point – hallucinations in code research"
+    },
+    {
+      "quote": "I just ignore or do a little bit of a deeper dive into my question so that I can get the right answers and at least point me in the right direction.",
+      "topic": "Workaround – manual verification"
+    },
+    {
+      "quote": "I haven't really found ways to verify the information, and this does make me rely less on AI.",
+      "topic": "Trust limitation"
+    },
+    {
+      "quote": "I still don't have trust in AI; it's still not really reliable.",
+      "topic": "Overall trust level"
+    },
+    {
+      "quote": "On average, how much do you trust the results or suggestions you get from AI tools? 2 - Low trust",
+      "topic": "Self‑reported trust rating"
+    },
+    {
+      "quote": "The most important thing it would do for me would be taking my larger scope projects and the milestones required to finish them, making sense of the order of things, and giving me that order so I know how to manage it.",
+      "topic": "Desired project‑management capability"
+    },
+    {
+      "quote": "If I can get AI to sort through multiple projects, I would know how to proceed and get everything done on time.",
+      "topic": "Desire for multi‑project prioritization"
+    },
+    {
+      "quote": "It would be great if AI could know a project's budget. Then, as the project develops ... it could alert me if the project's design is going over budget and make recommendations on ways to bring it back within budget.",
+      "topic": "Desired budget monitoring"
+    },
+    {
+      "quote": "I think tying into all those things—calendar, email, but also project management‑specific software.",
+      "topic": "Integration expectations"
+    },
+    {
+      "quote": "Producing a Gantt chart or a project timeline, I can certainly do on my own. But if AI were able to produce that quicker and more reliably, then that would be something useful.",
+      "topic": "Desired rapid timeline generation"
+    },
+    {
+      "quote": "The big difference, I think, is that I'm able to sit and think about my answer before I start recording. That gives me a chance to consider what I'm going to say without looking like I'm fishing for answers or, you know, uncertain about how to respond.",
+      "topic": "Advantage of AI interview – time to think"
+    },
+    {
+      "quote": "Well, there was a lot of repeating of what I said, which doesn't typically happen in a normal interview or conversation.",
+      "topic": "Pain point – repetition in AI interview"
+    },
+    {
+      "quote": "I think it might be more engaging if it wasn't just text and instead featured an AI‑generated person talking to a screen with text on it.",
+      "topic": "Suggestion for more natural AI interview"
+    }
+  ],
+  "unique_insights": "The participant exhibits a paradoxical relationship with AI: extremely high daily usage for diverse tasks yet rates trust as very low, especially for factual domains like code research. They treat AI as a creative catalyst that can infer intent from drafts, but they also demand rigorous verification, indicating a need for hybrid workflows where AI augments but does not replace expert judgment. Their ideal assistant blends deep project‑management intelligence (milestone sequencing, multi‑project prioritization, budget alerts) with seamless integration into existing tools, a combination rarely articulated by users focused solely on text generation."
+}

@@ -1,0 +1,98 @@
+# Ollama Model Configuration for AI Customer Research
+
+# Default settings
+default_model: llama2
+host: http://localhost:11434
+timeout: 120
+max_retries: 3
+
+# Generation parameters
+generation:
+  temperature: 0.7          # Higher = more creative, Lower = more focused
+  max_tokens: 2000          # Maximum tokens per response
+  top_p: 0.9                # Nucleus sampling threshold
+  top_k: 40                 # Top-k sampling parameter
+  context_window: 4096      # Context window size
+
+# Model configurations
+models:
+  llama2:
+    name: llama2
+    use_case: "general_analysis"
+    description: "General purpose model, balanced performance"
+    temperature: 0.7
+    max_tokens: 2000
+    best_for:
+      - sentiment_analysis
+      - theme_extraction
+      - general_insights
+
+  mistral:
+    name: mistral
+    use_case: "fast_inference"
+    description: "Faster inference, good for production"
+    temperature: 0.6
+    max_tokens: 1500
+    best_for:
+      - batch_processing
+      - quick_analysis
+      - real_time_inference
+
+  codellama:
+    name: codellama
+    use_case: "code_analysis"
+    description: "Specialized for code and technical content"
+    temperature: 0.5
+    max_tokens: 2000
+    best_for:
+      - technical_feedback
+      - code_review_analysis
+      - developer_survey_analysis
+
+  neural-chat:
+    name: neural-chat
+    use_case: "conversational"
+    description: "Optimized for conversational analysis"
+    temperature: 0.8
+    max_tokens: 1500
+    best_for:
+      - chat_analysis
+      - interview_transcripts
+      - open_ended_responses
+
+# Analysis task routing
+task_routing:
+  sentiment_analysis:
+    preferred_model: llama2
+    fallback_model: mistral
+    temperature: 0.6
+
+  theme_extraction:
+    preferred_model: llama2
+    fallback_model: neural-chat
+    temperature: 0.7
+
+  insight_generation:
+    preferred_model: llama2
+    fallback_model: mistral
+    temperature: 0.8
+
+  batch_processing:
+    preferred_model: mistral
+    fallback_model: llama2
+    temperature: 0.6
+
+# Performance optimization
+optimization:
+  enable_caching: true
+  cache_ttl: 3600           # Cache time-to-live in seconds
+  batch_size: 10            # Default batch size
+  parallel_requests: 3      # Max parallel requests
+  enable_streaming: false   # Stream responses (slower but shows progress)
+
+# Error handling
+error_handling:
+  max_retries: 3
+  retry_delay: 2            # Seconds between retries
+  fallback_model: mistral   # Model to use if primary fails
+  timeout_handling: graceful

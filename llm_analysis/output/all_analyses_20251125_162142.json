@@ -1,0 +1,2576 @@
+[
+  {
+    "participant_id": "en_response_0001.txt",
+    "key_behaviors": [
+      "Uses Perplexity, Google Gemini, and Microsoft Copilot for personal tasks",
+      "Uses AI tools about once a month",
+      "Employs AI for vacation planning and explores using it for software development at home",
+      "Attempts to use AI browser (Perplexity Comet) for information gathering",
+      "Seeks AI assistance for email organization and management of large inboxes",
+      "Envisions AI as a personal IT consultant for various life‑automation tasks"
+    ],
+    "pain_points": [
+      "Security and privacy concerns when granting AI access to personal data or systems",
+      "Current AI integrations (e.g., Gmail Gemini) are too limited to handle large email volumes and complex actions",
+      "Difficulty prioritizing ideas and deciding which projects to start, leading to inaction",
+      "Tools are either overly general and risky or overly narrow and not useful for desired tasks",
+      "Lack of clear guidance on how to safely use AI features (e.g., AI browser, email automation)",
+      "Annoyances in AI interview platforms such as mandatory video and fiddly start/stop recording",
+      "Limited rapport and conversational feel in AI‑driven surveys"
+    ],
+    "trust_factors": [
+      "Moderate overall trust (rated 3 out of 5)",
+      "Higher trust when AI operates in a constrained, well‑defined context",
+      "Reduced trust due to perceived security risks and uncertainty about AI over‑reaching its permissions"
+    ],
+    "desires": [
+      "An AI that encourages faster typing and improves collaboration skills",
+      "Resource‑optimization assistance (selling unwanted items, finding recyclers, disaster preparedness)",
+      "Comprehensive financial aggregation and account‑security management",
+      "A personal IT consultant capable of safely integrating with calendars, email, and other personal systems",
+      "Ability to toggle between survey‑style efficiency and conversational rapport depending on user preference"
+    ],
+    "verbatim_quotes": [
+      {
+        "quote": "Perplexity, Google Gemini, Microsoft Copilot",
+        "topic": "AI tools used"
+      },
+      {
+        "quote": "Monthly",
+        "topic": "Frequency of personal AI use"
+      },
+      {
+        "quote": "vacation planning for far-future vacations",
+        "topic": "Task type – vacation planning"
+      },
+      {
+        "quote": "assistance with software development, the vibe coding thing.",
+        "topic": "Desired use – personal coding assistance"
+      },
+      {
+        "quote": "some thoughts about the timelines, about when the best time or the least latest responsible time would be to make certain decisions.",
+        "topic": "Value derived from AI in planning"
+      },
+      {
+        "quote": "Partly, it's a prioritization issue about what to work on first, and then it's just time.",
+        "topic": "Barrier to personal coding projects"
+      },
+      {
+        "quote": "I have too many ideas, so I have a hard time picking one, which leads to not starting",
+        "topic": "Idea overload and inaction"
+      },
+      {
+        "quote": "I did try one of the AI browsers. I think it was Perplexity Comet.",
+        "topic": "Experimentation with AI browser"
+      },
+      {
+        "quote": "given some of the security concerns, I stopped.",
+        "topic": "Security concerns limiting usage"
+      },
+      {
+        "quote": "I don't want to give AI access to everything because there's some concern about whether it will go ahead and use something it doesn't need access to anyway",
+        "topic": "Privacy & permission worries"
+      },
+      {
+        "quote": "I want a personal IT consultant, but it just seems so much more limited than that, and I can't really think in that box or outside that box or take those kinds of actions.",
+        "topic": "Desire for a more capable personal assistant"
+      },
+      {
+        "quote": "I would like its help organizing my email, deleting all the stuff that doesn't really matter",
+        "topic": "Email management need"
+      },
+      {
+        "quote": "I would say frequently.",
+        "topic": "Frequency of mismatch between expectations and reality"
+      },
+      {
+        "quote": "3 - Moderate trust",
+        "topic": "Overall trust level"
+      },
+      {
+        "quote": "It would encourage me to type faster.",
+        "topic": "Desired capability – typing assistance"
+      },
+      {
+        "quote": "It would motivate me to learn how to collaborate better with it and other people.",
+        "topic": "Desired capability – collaboration coaching"
+      },
+      {
+        "quote": "It would help me optimize my resources.",
+        "topic": "Desired capability – resource optimization"
+      },
+      {
+        "quote": "It would assist me in selling my unneeded items and getting them shipped.",
+        "topic": "Desired capability – logistics for unwanted items"
+      },
+      {
+        "quote": "It would help me find other people to assist me in doing things I want to do, like selling my unneeded items and finding good places to recycle things.",
+        "topic": "Desired capability – networking & recycling assistance"
+      },
+      {
+        "quote": "It would help me keep all my accounts secure.",
+        "topic": "Desired capability – security management"
+      },
+      {
+        "quote": "It would help me gather all my financial information together in one spot.",
+        "topic": "Desired capability – financial aggregation"
+      },
+      {
+        "quote": "It would help me prepare for disasters.",
+        "topic": "Desired capability – disaster preparedness"
+      },
+      {
+        "quote": "Well, I think mostly it would be about increasing brain space and positive energy.",
+        "topic": "Overall benefit of an ideal assistant"
+      },
+      {
+        "quote": "Compared to a human, there was certainly less rapport, less social obligation, and more convenience for me.",
+        "topic": "Experience of AI interview vs human"
+      },
+      {
+        "quote": "There was the requirement for the video, but it seemed not to really be used.",
+        "topic": "Annoyance in AI interview platform"
+      },
+      {
+        "quote": "The interviewer was writing the questions in more of a survey style than a chat style",
+        "topic": "Modality of AI interview"
+      },
+      {
+        "quote": "I would say I don't think there is an ideal. It would be nice to have one that you could control, depending on your audience.",
+        "topic": "Desire for adjustable interview style"
+      },
+      {
+        "quote": "I lean more towards survey, and I just don't think the well, certainly, I've seen other platforms implement it better.",
+        "topic": "Preference for survey‑style AI interaction"
+      },
+      {
+        "quote": "I'm anti-anthropomorphizing AI, so I prefer more of a survey approach and less of the pretending to be human equivalent.",
+        "topic": "Philosophical stance toward AI design"
+      }
+    ],
+    "unique_insights": "The participant frames AI as a \"personal IT consultant\" that could offload mundane logistics (email triage, selling/unneeded items, recycling, disaster prep, financial aggregation) to free up \"brain space and positive energy\" for creative work. Unlike many users who seek conversational rapport, this participant explicitly prefers a survey‑style, low‑anthropomorphized interaction and wants the ability to toggle interaction modes based on audience. Security concerns are not just about data leakage but about AI taking unintended actions to achieve a goal, which heavily limits willingness to grant broader permissions."
+  },
+  {
+    "participant_id": "en_response_0003.txt",
+    "key_behaviors": [
+      "Uses AI tools weekly for personal tasks",
+      "Relies on ChatGPT for reviewing and correcting APA citations",
+      "Uses AI to customize resumes and cover letters for job applications",
+      "Attempts to generate UI mockups and visual assets with AI",
+      "Experiments with AI for complex transcript and mapping analysis",
+      "Uses AI for work‑related reports, visuals, and slide decks"
+    ],
+    "pain_points": [
+      "AI-generated UI mockups are low quality and hard to edit",
+      "AI fails to correctly analyze multi‑hour transcripts and visual mappings, causing wasted time",
+      "AI requires very detailed prompts for complex tasks and does not understand context automatically",
+      "Lack of integration with existing tools (recruiting platforms, calendars, etc.) limits usefulness",
+      "Inconsistent performance leads to hesitation to reuse AI for similar complex tasks"
+    ],
+    "trust_factors": [
+      "Moderate trust overall (rated 3/5)",
+      "Trust increases when AI can explain citation errors and provide correct formatting",
+      "Trust decreases when AI produces inaccurate analysis or unusable visual designs",
+      "Reliance on AI is higher for low‑stakes, simpler personal tasks"
+    ],
+    "desires": [
+      "An assistant that automatically connects to all relevant documentation and tools",
+      "Context‑aware understanding of research projects without needing elaborate prompts",
+      "Conversational learning that remembers prior interactions and simplifies future prompts",
+      "Ability to choose level of detail (high‑level vs. detailed) based on task risk",
+      "Automatic detection of inconsistencies across integrated tools (e.g., recruiting platforms, calendars)",
+      "Seamless generation and editable UI mockups that match design intent"
+    ],
+    "verbatim_quotes": [
+      {
+        "quote": "I generate a first draft of the APA citation or reference and then feed that into tools. Generally, ChatGPT is usually my go-to. I have it review the citations and references to ensure they're accurate, and it provides examples of where it's wrong, explains why it's wrong, and shows what the correct formatting should be for APA so that I can fix it.",
+        "topic": "Academic citation assistance"
+      },
+      {
+        "quote": "AI has been really helpful in steering the resume towards what the job posting is actually wanting and finding gaps in what I'm doing compared to what the job posting is for.",
+        "topic": "Resume customization"
+      },
+      {
+        "quote": "I was trying to use AI to help me create some visuals, like UI mockups... AI didn't really create great images or great UIs, especially static UIs. I think it really struggled with coming up with elements that are actually representative of what I'm trying to envision, and it has a challenge with editing parts of the UI that are incorrect and that I want to fix.",
+        "topic": "UI mockup generation pain point"
+      },
+      {
+        "quote": "We were trying to create a project to analyze a bunch of different transcripts... AI ... wasn't really analyzing the mappings or didn't know how to interpret the mappings... we ended up having to scrap that plan... set us back by a couple of hours or maybe even a couple of days.",
+        "topic": "Complex transcript analysis failure"
+      },
+      {
+        "quote": "On average, how much do you trust the results or suggestions you get from AI tools? 3 - Moderate trust",
+        "topic": "Trust level"
+      },
+      {
+        "quote": "The perfect AI personal assistant would be able to connect with all the documentation and tools that I need, understand the full context of my research study or whatever I'm working on, and grasp what I need and what I'm looking for without me having to write out a complex AI prompt.",
+        "topic": "Desired capabilities"
+      },
+      {
+        "quote": "The conversational learning would be really valuable, especially when I'm writing out a prompt and it could detect, \"Hey, you don't need to give me that set of instructions. I remember that from last time.\"",
+        "topic": "Learning and prompt simplification"
+      },
+      {
+        "quote": "It could connect to the different recruiting tools that I want to use... help me create the screener and update it for those different tools so I don't have to manually add it to each one individually.",
+        "topic": "Tool integration for recruiting"
+      },
+      {
+        "quote": "It was a little weird that it was just purely text‑based... I have to manually stop the recording to submit my response instead of, you know, naturally, like a human would know when I'm done.",
+        "topic": "AI interview experience"
+      }
+    ],
+    "unique_insights": "The participant, a UX researcher pursuing an AI master’s, uniquely blends academic and professional AI use, highlighting a desire for an assistant that not only automates routine formatting tasks but also acts as a contextual bridge across multiple specialized research tools. Their emphasis on conversational learning that remembers prior prompts and adjusts prompting complexity is a nuanced expectation not commonly voiced, indicating a need for AI that evolves from a static query tool into a proactive, integrated research partner."
+  },
+  {
+    "participant_id": "en_response_0004.txt",
+    "key_behaviors": [
+      "Uses multiple AI tools (ChatGPT, Claude, Microsoft Copilot, Perplexity) multiple times per day",
+      "Leverages AI for copy‑editing emails and personal writing",
+      "Creates study guides, flashcards, and asks AI to act as a coach or teacher",
+      "Uses AI for research tasks and quick information gathering",
+      "Attempts to use AI for complex work‑related tasks (e.g., competitive analysis) but abandons when it fails",
+      "Envisions AI helping with transcription, drafting surveys, and research methodology"
+    ],
+    "pain_points": [
+      "AI cannot perform in‑depth competitive analysis from a user‑research perspective",
+      "Difficulty crafting prompts that yield useful results leads to frustration",
+      "Frequent failure on complex tasks causes the participant to stop using AI for those tasks",
+      "Lack of trust in AI connecting to personal systems (calendar, email, etc.)",
+      "Overall moderate trust (rating 3) indicates uncertainty about AI reliability"
+    ],
+    "trust_factors": [
+      "Moderate trust overall (rating 3)",
+      "Trust in AI for surface‑level copy editing and generating concise text",
+      "Distrust of AI handling personal data or system integrations without explicit control"
+    ],
+    "desires": [
+      "An AI that acts as a constant teacher or intern for work tasks",
+      "AI assistance that speeds up copy editing, transcription, and first‑draft creation of surveys and research methods",
+      "Tighter integration with work tools **only if** the user retains full control",
+      "AI that can conduct rapid user‑testing interviews, reducing preparation time and moderator fatigue",
+      "A reliable AI partner for complex analytical work that currently fails (e.g., competitive analysis)"
+    ],
+    "verbatim_quotes": [
+      {
+        "quote": "Mostly copy editing, a lot of research, and then a lot of study guides, like asking it, \"What is this? What is that? How can I do this?\"",
+        "topic": "Typical personal tasks"
+      },
+      {
+        "quote": "For my copy editing work, it's making my emails sound clearer and more concise. It's also helping with rewriting things in my personal life, just general copy editing. It's like having a copy editor on my phone.",
+        "topic": "Value of AI for copy editing"
+      },
+      {
+        "quote": "So it's like study guides for learning AI. ... create a study guide, create flashcards, etcetera.",
+        "topic": "AI as a learning coach"
+      },
+      {
+        "quote": "I was trying to use Perplexity to perform a competitive analysis from a user research perspective, but either I wasn't getting my prompt right or it just couldn't do it. I became frustrated, so I stopped trying.",
+        "topic": "Failure on complex task"
+      },
+      {
+        "quote": "It was very common, so I stopped using AI tools, like commercial LLMs, for competitive analysis.",
+        "topic": "Abandoning a use case"
+      },
+      {
+        "quote": "On average, how much do you trust the results or suggestions you get from AI tools? 3 - Moderate trust",
+        "topic": "Trust rating"
+      },
+      {
+        "quote": "I guess maybe, like, I don't know, a constant teacher or like an intern for work. Something that helps me more in my work life instead of my personal life.",
+        "topic": "Ideal AI assistant concept"
+      },
+      {
+        "quote": "Because it helped me work faster and be more efficient.",
+        "topic": "Desired benefit of AI assistant"
+      },
+      {
+        "quote": "I mean copy editing, transcribing transcripts, transcribing notes, and creating first drafts of things like surveys or research methodology approaches, and so forth.",
+        "topic": "Specific work tasks for AI support"
+      },
+      {
+        "quote": "I don't trust it to do that. That's the one thing in my life I want control over.",
+        "topic": "Distrust of system integration"
+      },
+      {
+        "quote": "I like that it asked unique follow‑up questions based on the answers I gave to the previous questions, but it still followed the overall format of the study and the research questions we have for this class project.",
+        "topic": "Positive impression of AI interview"
+      },
+      {
+        "quote": "It would take less time to prepare everything, but this would also help me test faster, at least for the initial prototypes that we want to test at work. It would provide quick wins.",
+        "topic": "Value of AI for rapid testing"
+      },
+      {
+        "quote": "Instead of taking three weeks to handle all the logistics and recruiting, we could focus on recruiting and then use this for the testing, so our researcher wouldn't be tired from moderating all these tests.",
+        "topic": "Efficiency gains in UX research"
+      }
+    ],
+    "unique_insights": "The participant, a UX strategist, sees AI not just as a personal productivity tool but as a potential \"constant teacher/intern\" that could dramatically accelerate research workflows—especially rapid prototype testing and interview moderation—yet remains wary of granting AI deep integration with personal systems. This blend of high expectations for work‑focused assistance and strong control preferences is a nuanced stance that highlights the need for granular permission models and transparent, task‑specific competence guarantees."
+  },
+  {
+    "participant_id": "en_response_0005.txt",
+    "key_behaviors": [
+      "Uses ChatGPT and Google Gemini about once a month for personal tasks",
+      "Leverages AI to plan weekly meals",
+      "Uses AI to design multi‑day travel itineraries (routes, points of interest, activities)",
+      "Relies on AI to generate lists of hotels or locations while planning trips",
+      "Double‑checks AI‑generated information because of frequent inaccuracies",
+      "Wishes AI would sync with personal calendar and email for reminders and scheduling"
+    ],
+    "pain_points": [
+      "AI often provides incorrect or non‑existent locations (e.g., hotels in the wrong state)",
+      "Inaccurate information occurs frequently – participant estimates about half the time",
+      "Need to manually verify every suggestion, which adds friction",
+      "Low overall trust in AI outputs (rated 2 / 5)",
+      "Current tools do not integrate with personal productivity systems (calendar, email)",
+      "AI lacks ability to support executive‑function challenges such as organization and structure"
+    ],
+    "trust_factors": [
+      "Accuracy of information is the primary driver of trust",
+      "Consistency across queries (repeating the same mistake reduces trust)",
+      "Ability to integrate with existing tools and provide reliable reminders would increase reliance"
+    ],
+    "desires": [
+      "An AI assistant that can plan an entire week, including meals, travel, and daily tasks",
+      "Accurate, up‑to‑date information without the need for double‑checking",
+      "Seamless integration with calendar and email to set reminders, schedule travel time, and draft responses",
+      "Support for executive‑function difficulties by providing structure, organization, and proactive prompts",
+      "A more personable, less formal interaction style (though not a core functional need)"
+    ],
+    "verbatim_quotes": [
+      {
+        "quote": "I would use AI to plan a week of meals or for travel.",
+        "topic": "Typical personal tasks"
+      },
+      {
+        "quote": "I would ask AI to help me plan a multi‑day trip, including different locations, places to go, and activities to do while traveling.",
+        "topic": "Travel planning use case"
+      },
+      {
+        "quote": "AI helps by saving time and being able to connect things more quickly.",
+        "topic": "Perceived value of AI"
+      },
+      {
+        "quote": "One example would be if I'm planning a trip to a place that I've never been before. AI can pre‑plan a route for me to take and connect that to other points of interest in the area that might be helpful, so we're managing the trip and time better.",
+        "topic": "Specific benefit of AI in travel"
+      },
+      {
+        "quote": "It provided me with a list, but when I went to find those places, they didn't exist where AI had told me they would be.",
+        "topic": "Inaccuracy example"
+      },
+      {
+        "quote": "I would say it happens pretty frequently when I use AI. I always need to double‑check it because, typically, I have found inconsistencies or things that are wrong.",
+        "topic": "Frequency of errors"
+      },
+      {
+        "quote": "I don't think there's anything I would call a severe consequence, other than just the inconvenience of having to double‑check everything again.",
+        "topic": "Impact of errors"
+      },
+      {
+        "quote": "On average, how much do you trust the results or suggestions you get from AI tools? – 2 - Low trust",
+        "topic": "Trust level"
+      },
+      {
+        "quote": "From a personal standpoint, it would be helpful in planning my week. It would serve as a good time management tool to help me better manage my day.",
+        "topic": "Desired functionality"
+      },
+      {
+        "quote": "It could remind me of things for the calendar and also, if I ask for information, it should be able to provide me with correct information and assist me in planning any other activities or tasks I might need to do throughout my week.",
+        "topic": "Desired integration and accuracy"
+      },
+      {
+        "quote": "As someone who struggles with some executive functioning, I believe it would be helpful in better managing those aspects so that I could accomplish other things during my day.",
+        "topic": "Executive‑function support"
+      },
+      {
+        "quote": "If AI could connect to my calendar, set reminders, plan out times, and travel times for things on my calendar, it could let me know when I need to be somewhere.",
+        "topic": "Calendar integration"
+      },
+      {
+        "quote": "AI is a bit more formal, I think, than how it would be if I were interacting with an actual human. There's not an emotional component to it.",
+        "topic": "Perception of AI interview style"
+      }
+    ],
+    "unique_insights": "The participant explicitly links AI assistance to their personal executive‑function challenges, describing AI as a potential source of external structure and organization they lack. This connection between cognitive support and AI utility is a nuanced need that goes beyond typical productivity or information‑retrieval use cases. Additionally, the participant rates overall trust very low (2/5) and reports that inaccuracies occur roughly half the time, highlighting a critical threshold where the friction of double‑checking outweighs the time‑saving benefits."
+  },
+  {
+    "participant_id": "en_response_0006.txt",
+    "key_behaviors": [
+      "Uses Google Gemini and ChatGPT multiple times per day for personal tasks",
+      "Prefers ChatGPT over traditional Google search because of conversational flow",
+      "Uses AI to look up how‑to information for tools",
+      "Attempts to have AI help with budgeting but lacks necessary personal data",
+      "Rates trust in AI outputs as high (4 out of 5)"
+    ],
+    "pain_points": [
+      "AI cannot access personal financial data needed to generate a budget",
+      "When information is missing, AI is unable to complete the task",
+      "Open‑ended conversational format can feel overwhelming; prefers multiple‑choice style",
+      "Tool limitations (e.g., AI cannot “print money” or perform impossible tasks)"
+    ],
+    "trust_factors": [
+      "Perceives ChatGPT answers as better than Google search results",
+      "Values the ability to keep a continuous conversation",
+      "High overall trust rating (4 – High trust)"
+    ],
+    "desires": [
+      "An assistant that constantly gives positive reinforcement (e.g., compliments on appearance and work)",
+      "Only provides “good” information and never criticizes",
+      "Interaction mode that includes multiple‑choice options instead of many open questions",
+      "Tighter integration with personal systems (calendar, email) – though not explicitly detailed, the question was asked"
+    ],
+    "verbatim_quotes": [
+      {
+        "quote": "I would probably use ChatGPT instead because it gives me better answers than Google does, and I can follow up on those answers.",
+        "topic": "Preference for ChatGPT over Google search"
+      },
+      {
+        "quote": "I like the flow of the conversation. It's different from Google. I don't have to keep typing in different things; I can just continue the conversation.",
+        "topic": "Value of conversational flow"
+      },
+      {
+        "quote": "The value is that I can keep the conversation going. It's like having a conversation with somebody rather than just typing stuff into a browser window.",
+        "topic": "Benefit of conversational interaction"
+      },
+      {
+        "quote": "I was trying to use it to print money because I wanted to pay some bills, and I didn't have enough. I realized that AI doesn't do that; it's not that kind of tool.",
+        "topic": "Awareness of AI limitations"
+      },
+      {
+        "quote": "I wanted to create a budget, but I didn't have the right information.",
+        "topic": "Budgeting task blocked by missing data"
+      },
+      {
+        "quote": "4 - High trust",
+        "topic": "Trust rating"
+      },
+      {
+        "quote": "It would tell me I'm handsome. It would tell me how great my work is all the time. It would never criticize me or would only give me good information, never give me bad information.",
+        "topic": "Desired personality of perfect AI assistant"
+      },
+      {
+        "quote": "If there are too many open questions, I'd prefer to just do multiple choice, if you don't mind.",
+        "topic": "Preference for multiple‑choice interaction"
+      },
+      {
+        "quote": "I don't, I mean, I guess it doesn't really make a difference because, you know, it depends on the interviewer. ... As long as the questions are correct and the researcher is getting the information that they need, then it's fine.",
+        "topic": "Indifference to AI vs. human interviewer"
+      }
+    ],
+    "unique_insights": "The participant explicitly seeks an AI that functions as a constant source of affirmation and never offers criticism, revealing a desire for emotional validation rather than purely functional assistance. Additionally, despite high trust in AI outputs, they express a strong preference for structured, multiple‑choice interactions over open‑ended conversation, highlighting a tension between wanting conversational flow and wanting concise, low‑cognitive‑load responses."
+  },
+  {
+    "participant_id": "en_response_0007.txt",
+    "key_behaviors": [
+      "Does not use AI tools for personal tasks",
+      "Uses AI less than monthly (effectively none)",
+      "Explicitly refuses any AI assistance"
+    ],
+    "pain_points": [
+      "Privacy concerns (stated as \"All of the above\")",
+      "Zero trust in AI outputs (rated 1 – No trust at all)",
+      "Perceived lack of value in having an AI assistant",
+      "AI persistence that ignores explicit refusal"
+    ],
+    "trust_factors": [
+      "No trust at all in AI suggestions",
+      "Fear that AI will misuse personal data"
+    ],
+    "desires": [
+      "No integration of AI with personal systems (calendar, email, etc.)",
+      "No AI assistant at all",
+      "AI that respects a clear \"no\" from the user"
+    ],
+    "verbatim_quotes": [
+      {
+        "quote": "Because I don't want to.",
+        "topic": "Reason for not using AI tools"
+      },
+      {
+        "quote": "All of the above.",
+        "topic": "Broad concerns (privacy, trust, other)"
+      },
+      {
+        "quote": "1 - No trust at all",
+        "topic": "Trust level in AI results"
+      },
+      {
+        "quote": "Nothing.",
+        "topic": "Desired functions of a perfect AI assistant"
+      },
+      {
+        "quote": "There are too many reasons to count.",
+        "topic": "Number of reasons for rejecting AI assistant"
+      },
+      {
+        "quote": "No such thing as perfect.",
+        "topic": "Skepticism about a perfect AI"
+      },
+      {
+        "quote": "Hopefully not at all.",
+        "topic": "Preference against AI connecting to personal systems"
+      },
+      {
+        "quote": "You wouldn't take no for an answer.",
+        "topic": "Perception of AI interviewer's persistence"
+      },
+      {
+        "quote": "They would have probably realized I just don't want the thing that they're asking for, and they wouldn't have kept at it like you have right now.",
+        "topic": "Contrast between human and AI interviewers"
+      },
+      {
+        "quote": "I literally just told you to not do it, and you're like, I'm gonna still ask questions. So that's obviously something that a human would pick up on, and you failed miserably.",
+        "topic": "AI's failure to detect explicit refusal"
+      }
+    ],
+    "unique_insights": "The participant exhibits a strong, principled aversion to AI, emphasizing that any AI system must respect an explicit \"no\" and that current AI fails to pick up basic social cues. This highlights a need for robust opt‑out mechanisms and better detection of user refusal, beyond just addressing privacy or trust concerns."
+  },
+  {
+    "participant_id": "en_response_0008.txt",
+    "key_behaviors": [
+      "Uses AI multiple times per day",
+      "Rewrites emails, texts, and proposals with AI",
+      "Uses AI for code research related to architectural projects",
+      "Relies on AI to make text sound more professional and succinct",
+      "Uses AI as a starting point, then verifies and deep‑dives manually",
+      "Selects both Microsoft Copilot and ChatGPT for personal tasks"
+    ],
+    "pain_points": [
+      "AI often generates incorrect or hallucinated information during code research",
+      "No reliable way to verify AI‑generated answers, leading to reduced reliance",
+      "Low overall trust in AI results (rated 2 – Low trust)",
+      "Need to manually edit or ignore inaccurate AI output",
+      "Current AI tools do not help with multi‑project prioritization or budget monitoring",
+      "Repetition in AI‑driven interview format feels unnatural",
+      "Lack of visual or conversational richness in AI interview (text‑only)"
+    ],
+    "trust_factors": [
+      "Perceived professionalism of AI‑generated text",
+      "AI’s ability to infer intent from draft context",
+      "Need for factual accuracy, especially in code‑related tasks",
+      "Requirement that AI suggestions be verifiable before use",
+      "Consistency and reliability across different task types"
+    ],
+    "desires": [
+      "An AI assistant that can break large projects into milestones and order tasks",
+      "Prioritization engine for juggling 4‑5 concurrent projects with limited resources",
+      "Budget awareness: alerts when design costs exceed budget and recommends adjustments",
+      "Seamless integration with calendar, email, and project‑management software",
+      "Automatic generation of Gantt charts or project timelines quickly and accurately",
+      "Higher factual reliability to reduce need for manual verification",
+      "More natural, less repetitive AI interview experience, possibly with visual avatar"
+    ],
+    "verbatim_quotes": [
+      {
+        "quote": "I use AI to rewrite emails, texts, and proposals. I also use it for code research related to architectural projects.",
+        "topic": "Types of personal tasks using AI"
+      },
+      {
+        "quote": "AI helps create more professional‑sounding text, emails, and proposals. It also streamlines the process, especially when it comes to reviewing codes.",
+        "topic": "Perceived value of AI"
+      },
+      {
+        "quote": "On a recent proposal, there was a limit to the number of pages that were allowed. It took my written rough draft and reduced it down, producing the text more succinctly.",
+        "topic": "Specific benefit – concise rewriting"
+      },
+      {
+        "quote": "A lot of times, it comes up with incorrect information. It seems to summarize text that it's scanning and makes assumptions, leading to statements that just aren't true.",
+        "topic": "Pain point – hallucinations in code research"
+      },
+      {
+        "quote": "I just ignore or do a little bit of a deeper dive into my question so that I can get the right answers and at least point me in the right direction.",
+        "topic": "Workaround – manual verification"
+      },
+      {
+        "quote": "I haven't really found ways to verify the information, and this does make me rely less on AI.",
+        "topic": "Trust limitation"
+      },
+      {
+        "quote": "I still don't have trust in AI; it's still not really reliable.",
+        "topic": "Overall trust level"
+      },
+      {
+        "quote": "On average, how much do you trust the results or suggestions you get from AI tools? 2 - Low trust",
+        "topic": "Self‑reported trust rating"
+      },
+      {
+        "quote": "The most important thing it would do for me would be taking my larger scope projects and the milestones required to finish them, making sense of the order of things, and giving me that order so I know how to manage it.",
+        "topic": "Desired project‑management capability"
+      },
+      {
+        "quote": "If I can get AI to sort through multiple projects, I would know how to proceed and get everything done on time.",
+        "topic": "Desire for multi‑project prioritization"
+      },
+      {
+        "quote": "It would be great if AI could know a project's budget. Then, as the project develops ... it could alert me if the project's design is going over budget and make recommendations on ways to bring it back within budget.",
+        "topic": "Desired budget monitoring"
+      },
+      {
+        "quote": "I think tying into all those things—calendar, email, but also project management‑specific software.",
+        "topic": "Integration expectations"
+      },
+      {
+        "quote": "Producing a Gantt chart or a project timeline, I can certainly do on my own. But if AI were able to produce that quicker and more reliably, then that would be something useful.",
+        "topic": "Desired rapid timeline generation"
+      },
+      {
+        "quote": "The big difference, I think, is that I'm able to sit and think about my answer before I start recording. That gives me a chance to consider what I'm going to say without looking like I'm fishing for answers or, you know, uncertain about how to respond.",
+        "topic": "Advantage of AI interview – time to think"
+      },
+      {
+        "quote": "Well, there was a lot of repeating of what I said, which doesn't typically happen in a normal interview or conversation.",
+        "topic": "Pain point – repetition in AI interview"
+      },
+      {
+        "quote": "I think it might be more engaging if it wasn't just text and instead featured an AI‑generated person talking to a screen with text on it.",
+        "topic": "Suggestion for more natural AI interview"
+      }
+    ],
+    "unique_insights": "The participant exhibits a paradoxical relationship with AI: extremely high daily usage for diverse tasks yet rates trust as very low, especially for factual domains like code research. They treat AI as a creative catalyst that can infer intent from drafts, but they also demand rigorous verification, indicating a need for hybrid workflows where AI augments but does not replace expert judgment. Their ideal assistant blends deep project‑management intelligence (milestone sequencing, multi‑project prioritization, budget alerts) with seamless integration into existing tools, a combination rarely articulated by users focused solely on text generation."
+  },
+  {
+    "participant_id": "en_response_0009.txt",
+    "key_behaviors": [
+      "Uses AI tools (Perplexity, ChatGPT, Google Gemini) daily for personal tasks",
+      "Relies on AI to revise grammar and meaning of personal communications",
+      "Uses AI for information retrieval and analysis (e.g., extracting customer quotes)",
+      "Attempts to compare specific product models (e‑bike) using AI",
+      "Prefers AI that can integrate multiple sources and provide critical feedback"
+    ],
+    "pain_points": [
+      "AI sometimes returns factually incorrect information (e‑bike comparison)",
+      "Accuracy issues occur about once a month, reducing confidence",
+      "Current AI does not ask clarifying questions or provide critical input during a task",
+      "Lack of non‑verbal or interactive feedback makes interview responses feel constrained",
+      "Difficulty capturing broader cross‑references and connections in AI‑driven interactions"
+    ],
+    "trust_factors": [
+      "Moderate overall trust (rated 3 out of 5)",
+      "Desire for AI to challenge its own responses to build trust",
+      "Need for AI to request critical input or clarification during a workflow",
+      "Importance of maintaining personal control over decisions"
+    ],
+    "desires": [
+      "An AI that pulls from multiple sources and can self‑challenge its answers",
+      "Ability for the AI to pause and ask the user for critical input throughout a task",
+      "Secure integration with internal corporate communication infrastructure while accessing external data",
+      "Feedback mechanisms (including non‑verbal cues) that confirm the AI captured broader references"
+    ],
+    "verbatim_quotes": [
+      {
+        "quote": "I revise a lot of communication. I use it for information retrieval and analysis.",
+        "topic": "General AI usage patterns"
+      },
+      {
+        "quote": "In my personal life, I would also use AI to revise the grammar or meaning of my communication. I'm not the best typist, so I really appreciate the feature of ensuring everything is grammatically correct.",
+        "topic": "Grammar and communication revision"
+      },
+      {
+        "quote": "I think I'm more effective and more polite in my everyday communication with others.",
+        "topic": "Perceived benefit of grammar assistance"
+      },
+      {
+        "quote": "Once, I wanted to compare a couple of very specific e-bike models. Even though the AI found very specific information, it turned out to be factually incorrect.",
+        "topic": "Accuracy failure"
+      },
+      {
+        "quote": "I would say about once a month, and it's not very severe. I would never use it for decision-making; it was more of an information retrieval exercise.",
+        "topic": "Frequency and severity of accuracy issues"
+      },
+      {
+        "quote": "I'm actually not sure if there's ever going to be a world where I would feel very strongly that AI would take over actual decision-making. I think control remains a very important element.",
+        "topic": "Reluctance to cede decision control"
+      },
+      {
+        "quote": "3 - Moderate trust",
+        "topic": "Self‑rated trust level"
+      },
+      {
+        "quote": "We'll be using multiple sources. I'd be able to challenge myself more and somehow convey that in the response.",
+        "topic": "Desired AI capability: multiple sources & self‑challenge"
+      },
+      {
+        "quote": "I think it would help with building trust. Also, something that just came to my mind is the ability to stop and raise questions to ask for critical input throughout the process.",
+        "topic": "Desired AI behavior: ask critical input"
+      },
+      {
+        "quote": "Good question. It would be part of a secured internal company corporate communication infrastructure, and they would connect it with the outside.",
+        "topic": "Desired secure integration"
+      },
+      {
+        "quote": "Great question. I feel like references across questions or the things that come to my mind about the broader topic don't have that much space, and I'm not sure if this is captured.",
+        "topic": "Limitation of AI interview format"
+      },
+      {
+        "quote": "I think it would be great to have some feedback when I, for instance, cross‑reference broader topics in order to be sure that this is somehow captured. Maybe some nonverbal feedback, as we have when we talk with other people, would be helpful to convey that kind of more interactive communication.",
+        "topic": "Desire for feedback/non‑verbal cues"
+      },
+      {
+        "quote": "Yeah, I think it does affect the quality of my responses because I don't go any deeper.",
+        "topic": "Impact of constrained interaction on response depth"
+      }
+    ],
+    "unique_insights": "The participant envisions an AI that not only aggregates multiple sources but also actively challenges its own answers and pauses to solicit critical user input, seeing this self‑questioning as a key trust builder. Additionally, they stress the need for a secure, corporate‑linked assistant that can safely bridge internal systems with external data—a nuance not commonly highlighted in personal‑use contexts. Finally, the desire for non‑verbal, interactive feedback during AI‑mediated conversations reveals a deeper expectation for conversational richness beyond text alone."
+  },
+  {
+    "participant_id": "en_response_0010.txt",
+    "key_behaviors": [
+      "Uses AI weekly for personal tasks",
+      "Leverages AI for complex health research and quick, well‑sourced answers",
+      "Uses AI to plan outings (hikes, trips) by gathering options, distances, and nearby amenities",
+      "Employs AI for writing assistance – improving drafts, generating ideas, or creating text from scratch",
+      "Copies AI‑generated summaries or option lists into messages for friends",
+      "Cherry‑picks useful phrases from AI output and then edits to retain personal voice"
+    ],
+    "pain_points": [
+      "AI writing assistance sometimes produces output that feels inauthentic or not aligned with personal voice",
+      "Dissatisfaction with AI output may stem from poor prompting or limited contextual understanding",
+      "Lack of transparent sourcing and quality‑assurance makes it hard to trust AI for important decisions",
+      "Uncertainty about how to verify AI‑provided sources without spending extra time",
+      "Reluctance to integrate AI with personal systems (calendar, email) due to privacy or control concerns"
+    ],
+    "trust_factors": [
+      "High overall trust rating (4/5) despite concerns",
+      "Desire for well‑sourced answers that can be independently verified",
+      "Preference for a human‑in‑the‑loop or other vetting mechanism to guard against over‑trust",
+      "Confidence grows when AI delivers fast, accurate summaries that match manual research"
+    ],
+    "desires": [
+      "An assistant that handles disliked tasks (research, planning) without sacrificing accuracy",
+      "Built‑in quality assurance, possibly with human review, to ensure trustworthiness",
+      "Clear citation of sources so the user can quickly assess credibility",
+      "Ability to preserve the user’s personal voice while offering concise phrasing options",
+      "Optional, controlled integration with calendars or email only if it adds clear value"
+    ],
+    "verbatim_quotes": [
+      {
+        "quote": "I use AI tools sometimes for tasks that require more complex research. These are things that would take me a longer time to research on my own. For example, if I have a health-related question, I want an answer that considers multiple sources of research or a quick but well-researched answer to something like that, such as a health question or how to handle a specific situation.",
+        "topic": "usage contexts – health research"
+      },
+      {
+        "quote": "I've also used it for planning, like finding options for a local hike or outing, factoring in distance, nearby restaurants or coffee shops, and the length of the hike.",
+        "topic": "usage contexts – trip/outdoor planning"
+      },
+      {
+        "quote": "It does so in a much faster amount of time and presents it back in a great summary format.",
+        "topic": "value – speed and summarization"
+      },
+      {
+        "quote": "When I use AI for trip planning, I was strapped for time while trying to meet up with a friend for an afternoon. I kind of knew what we wanted but didn't have a lot of time to research it. I also wanted to share options with her. So, I did some research and provided a short summary that I could easily copy.",
+        "topic": "example of speed saving"
+      },
+      {
+        "quote": "Sometimes when I have to try to use it for writing assistance, I don't really like what I get out of it, and I maybe prefer what I could do by hand.",
+        "topic": "pain point – writing dissatisfaction"
+      },
+      {
+        "quote": "I think the writing assistance falls short when I'm working on something where one of the highest values is authenticity. I don't want to lose my personal voice in it.",
+        "topic": "pain point – authenticity"
+      },
+      {
+        "quote": "I just cherry-pick the best phrases. If I find something in there that I do like, as far as a phrase, maybe it's more concise than what I did, but still keeps my voice. I'll pull a couple of phrases that I like, but then go back and just kind of re-edit my own thing.",
+        "topic": "workaround for voice preservation"
+      },
+      {
+        "quote": "4 - High trust",
+        "topic": "trust rating"
+      },
+      {
+        "quote": "It would be really well-sourced so that it could give me true confidence, which would help build trust.",
+        "topic": "desired trust factor – sourcing"
+      },
+      {
+        "quote": "I've heard that people have started to put a higher amount of trust in AI once they're working with it than is maybe earned or warranted, and I could maybe fall into that same trap. So I think if there were ways it could legitimately ensure trustworthiness, that would be a true value.",
+        "topic": "trust concern – trust trap"
+      },
+      {
+        "quote": "I think sourcing is one thing, but it also takes time and requires me to be knowledgeable about the sources. So I'm not really sure.",
+        "topic": "pain point – verification effort"
+      },
+      {
+        "quote": "I'm not sure that I want to connect with those systems.",
+        "topic": "reluctance to integrate with calendar/email"
+      },
+      {
+        "quote": "I thought it had a decent flow to it. I didn't mind it, and it didn't make me hold back or anything.",
+        "topic": "comfort with AI interview"
+      },
+      {
+        "quote": "Well, I think you're missing the human kind of back-and-forth of a natural conversation where you get a head nod, just nonverbal feedback, basically. But I do think that AI was good at acknowledging the last answer and following up in a logical way, so that was good.",
+        "topic": "feedback on AI interview experience"
+      }
+    ],
+    "unique_insights": "The participant reports high overall trust in AI (rating 4/5) yet simultaneously worries about a \"trust trap\" where over‑reliance could be unjustified. Their primary friction point is not the lack of functionality but the inability of AI to guarantee source credibility and preserve personal voice, leading them to manually cherry‑pick and edit AI output. They are also ambivalent about deep integration with personal productivity tools, preferring optional, controlled connections only if clear benefits are demonstrated."
+  },
+  {
+    "participant_id": "en_response_0011.txt",
+    "key_behaviors": [
+      "Uses ChatGPT and Claude on a weekly basis for personal tasks",
+      "Leverages AI to research and compare shopping options, especially cosmetics",
+      "Appreciates AI‑generated tables, summaries, and direct links to review sites",
+      "Uses follow‑up questions to refine AI output and correct hallucinations",
+      "Sets guardrails and has clear expectations before asking AI for information",
+      "Envisions AI handling routine scheduling and grocery ordering proactively"
+    ],
+    "pain_points": [
+      "Occasional hallucinations or “wrong path” answers that require extra prompting",
+      "Having to remember and manually schedule appointments at the last minute",
+      "Manual effort required to reorder groceries and confirm cart contents",
+      "Lack of proactive, automated integration with calendar and shopping apps",
+      "Awkwardness of text‑only AI interview format"
+    ],
+    "trust_factors": [
+      "Expectation that AI will sometimes hallucinate, which lowers impact on trust",
+      "Moderate overall trust (rated 3 out of 5)",
+      "Confidence when AI provides links to reputable review sites",
+      "Trust maintained by using guardrails and knowing the limits of the technology"
+    ],
+    "desires": [
+      "An AI assistant that automatically schedules appointments and makes phone calls without prompting",
+      "Proactive reminders and actions based on regular cadence (e.g., “schedule this before I think about it”) ",
+      "Automatic grocery re‑ordering with a confirmation step before purchase",
+      "Seamless integration with personal calendar and grocery‑shopping app",
+      "More human‑like interaction for sensitive or nuanced conversations"
+    ],
+    "verbatim_quotes": [
+      {
+        "quote": "I generally like the way that AI presents the information back to me. I can get a lot of information at once and receive table overviews, and I can keep asking follow‑up questions compared to doing Google searches.",
+        "topic": "shopping research value"
+      },
+      {
+        "quote": "I guess I have encountered a couple of hallucinations or things heading down the wrong path. But usually, I can correct it by prompting it with a few more questions.",
+        "topic": "hallucinations / quality issues"
+      },
+      {
+        "quote": "I wouldn't say it impacts my trust very much, mostly because I expect there to be some hallucinations or wrong paths. I know this is not a perfect technology, and I think I roughly know what to expect from it.",
+        "topic": "trust despite errors"
+      },
+      {
+        "quote": "On average, how much do you trust the results or suggestions you get from AI tools? 3 - Moderate trust",
+        "topic": "self‑reported trust level"
+      },
+      {
+        "quote": "I would really love a personal AI assistant to schedule appointments for me, especially for things that I regularly need on my calendar. I want it to handle all those tasks, including the phone calls I don't want to make.",
+        "topic": "desired assistant functionality"
+      },
+      {
+        "quote": "I'm generally very bad at remembering that I need to schedule appointments before they need to happen. They tend to be scheduled at the very last minute and therefore have to be pushed out further than I would like them to actually happen.",
+        "topic": "pain point: appointment scheduling"
+      },
+      {
+        "quote": "I could also think of it benefiting from grocery shopping. I do a lot of online grocery shopping, so having my regular cart being ordered, maybe just asking me if I'm ready to reorder and confirming with me what's in there before it goes and does the regular shopping.",
+        "topic": "desired assistant: grocery automation"
+      },
+      {
+        "quote": "It's definitely interesting being interviewed by an AI, not having a person to really chat with on the other end. However, it did give me more time to think about my answers without feeling like I was making a person wait.",
+        "topic": "AI interview experience"
+      },
+      {
+        "quote": "Yeah, definitely the reading of text, but also, you know, when there is an in‑person element to interviewing, you can have a different vibe with a person. There's just something different about being able to connect with people personally and have that experience, I think.",
+        "topic": "awkwardness of AI interview"
+      },
+      {
+        "quote": "I think it could really depend on the subject matter. For instance, if the interview subject is on something really sensitive, like a reorganization or any other delicate issue, you would want to take the time to show people that you are listening to them with a human touch rather than with AI.",
+        "topic": "human vs. AI for sensitive conversations"
+      }
+    ],
+    "unique_insights": "The participant reports no personal‑use limitations yet, using AI mainly for low‑stakes shopping decisions and accepting occasional hallucinations as normal. Their trust remains moderate because they set clear expectations and guardrails. The most compelling desire is for a truly proactive assistant that anticipates routine tasks (appointments, grocery orders) without prompting, highlighting a gap between current reactive AI tools and the user’s need for autonomous, schedule‑integrated assistance."
+  },
+  {
+    "participant_id": "en_response_0012.txt",
+    "key_behaviors": [
+      "Uses ChatGPT weekly for personal tasks",
+      "Inputs medical exam results into ChatGPT to interpret health condition",
+      "Uses ChatGPT to edit long personal letters for typos and style",
+      "Copies exercise names from ChatGPT and searches Google for pictures",
+      "Envisions an AI that could research and book professional training workshops"
+    ],
+    "pain_points": [
+      "ChatGPT cannot generate or display exercise pictures, requiring a second tool (Google)",
+      "Limited trust in AI outputs (moderate trust, needs verification)",
+      "Uncertainty about how AI would integrate with calendar, email, and other personal systems",
+      "No examples of tasks where AI fails, suggesting limited awareness of AI’s boundaries"
+    ],
+    "trust_factors": [
+      "Moderate trust level (3 out of 5)",
+      "Wants AI to be as efficient and effective as the user themselves",
+      "Needs AI to consistently understand needs and deliver accurate results before delegating tasks",
+      "Perceives human interviewers as more empathetic, which influences trust"
+    ],
+    "desires": [
+      "AI that can locate, evaluate, and book relevant training workshops automatically",
+      "Seamless integration with calendar, email, and other personal productivity tools",
+      "Ability to provide visual content (e.g., exercise images) within the same conversation",
+      "Higher reliability that would raise trust to a level‑5, allowing the user to rely on AI without double‑checking"
+    ],
+    "verbatim_quotes": [
+      {
+        "quote": "I put the results of my exams into ChatGPT and asked it to tell me what the results indicated regarding my current health condition...",
+        "topic": "Health information usage"
+      },
+      {
+        "quote": "The other way I have used ChatGPT is when I'm writing long letters to my friends and family members. I ask ChatGPT to edit the letter for any typos or anything I might have missed.",
+        "topic": "Letter editing usage"
+      },
+      {
+        "quote": "When I use it for health information, I wanted to see the exercises that were suggested for my health condition, and ChatGPT didn't generate the pictures. So, I had to copy and paste the names of the exercises and then ask Google to find the pictures.",
+        "topic": "Limitation – lack of visual output"
+      },
+      {
+        "quote": "On average, how much do you trust the results or suggestions you get from AI tools? 3 - Moderate trust",
+        "topic": "Trust level"
+      },
+      {
+        "quote": "I think a personal assistant would help me find training programs that I could use when I'm writing content or developing a point of view for my work. It could show me what workshops are available on the topic, help me select the top ones, and then assist me in booking them.",
+        "topic": "Desired professional‑life assistance"
+      },
+      {
+        "quote": "If the AI assistant is as efficient as I am, and not just efficient but also effective, and if the AI system is able to understand what I need and reach a level five, then I will be able to use it.",
+        "topic": "Conditions for higher trust"
+      },
+      {
+        "quote": "I don't know what the purpose will be. It might be to send emails for me and manage calendar invites, but I don't understand the purpose.",
+        "topic": "Uncertainty about system integration"
+      },
+      {
+        "quote": "Just the fact that the humans understand me better, and it's more like a conversation than an interview or a survey.",
+        "topic": "Human empathy vs. AI interaction"
+      },
+      {
+        "quote": "Is empathy?",
+        "topic": "Human empathy as a trust factor"
+      }
+    ],
+    "unique_insights": "The participant leverages AI to become a more proactive patient, using it to ask deeper questions during a medical appointment—a clear example of AI enhancing personal agency in health decisions. Additionally, they view AI as a \"survey-like\" tool lacking empathy, which directly impacts their willingness to trust and rely on it for more complex, personal tasks."
+  },
+  {
+    "participant_id": "en_response_0013.txt",
+    "key_behaviors": [
+      "Uses AI tools (Google Gemini) less than monthly",
+      "Employs AI for low‑stakes brainstorming (e.g., warm‑up questions for meetings)",
+      "Uses AI to look up factual information but always double‑checks sources",
+      "Attempts to use AI for personal curiosity (e.g., checking relationship status of TV show participants)",
+      "Wishes AI could automatically consolidate calendar data from paper, texts, and email",
+      "Considers AI as a possible “second brain” for routine administrative tasks"
+    ],
+    "pain_points": [
+      "Frequent obvious errors (mis‑identifying people, nonsensical answers like glue consumption)",
+      "Low trust in factual answers; need to verify sources",
+      "Difficulty integrating AI with disparate personal data sources (paper calendars, texts, email)",
+      "Perceived unreliability reinforced by viral media examples",
+      "AI’s inability to provide trustworthy financial advice",
+      "Cumbersome interaction format (reading and clicking) compared to human conversation"
+    ],
+    "trust_factors": [
+      "Presence of clear, verifiable source citations",
+      "Low‑stakes context where errors are tolerable",
+      "Demonstrated consistency and accuracy over time",
+      "Understanding that the model is a statistical language generator (LLM)",
+      "Endorsements or proven track record from reputable financial institutions (though participant remains skeptical)",
+      "Transparency about limitations (e.g., reminders that it is not a financial adviser)"
+    ],
+    "desires": [
+      "An AI assistant that automatically gathers and consolidates calendar events from paper, texts, and email",
+      "A “second brain” that handles boring administrative tasks, freeing mental bandwidth",
+      "Ability to bounce budgeting or financial ideas off the AI with confidence",
+      "Higher reliability for factual queries, reducing the need for manual double‑checking",
+      "More natural, conversational interaction that captures nuance and tone"
+    ],
+    "verbatim_quotes": [
+      {
+        "quote": "Google Gemini",
+        "topic": "AI tool used"
+      },
+      {
+        "quote": "Less than monthly",
+        "topic": "Frequency of personal AI use"
+      },
+      {
+        "quote": "I mostly use AI for very low-stakes tasks. For example, I had to brainstorm a bunch of questions for a warm-up in a work meeting, so I just asked AI to give me a list of fun warm-up questions.",
+        "topic": "Typical low‑stakes usage"
+      },
+      {
+        "quote": "Yeah, it did save me time and gave me ideas I wouldn't have thought of. I appreciated the way it categorized the ideas into different themes of warm-up questions.",
+        "topic": "Value derived from brainstorming"
+      },
+      {
+        "quote": "Occasionally, I will look for a fact if I think it might be able to find better sources than I can find on Google, or I don't have to wade through sponsored posts.",
+        "topic": "Fact‑checking behavior"
+      },
+      {
+        "quote": "I don't trust AI's answer at all. However, I went to look at what it had cited as its sources.",
+        "topic": "Skepticism toward factual answers"
+      },
+      {
+        "quote": "I very rarely trust AI on facts. I will always double-check.",
+        "topic": "Trust strategy for factual queries"
+      },
+      {
+        "quote": "If it's, like, a low-stakes fact, maybe I'll trust it. But if it's something that I need for work or need to be accurate, there's no way.",
+        "topic": "Contextual trust thresholds"
+      },
+      {
+        "quote": "I wanted to know if they were still together, but I couldn't find anything.",
+        "topic": "Attempt to use AI for personal curiosity"
+      },
+      {
+        "quote": "I asked Google, \"Are so-and-so still together? Like, Jess and Mike.\" And it responded, \"Yes, they have a baby. They welcomed a baby girl,\" like the Google AI response.",
+        "topic": "Incorrect AI answer due to name confusion"
+      },
+      {
+        "quote": "It very clearly pulled information from the social media of two different famous people who had the same name, so it was bad.",
+        "topic": "Error type: identity mix‑up"
+      },
+      {
+        "quote": "I fairly often encounter these kinds of obvious errors, and I also feel like the media and public perception have influenced my assumption of AI's incorrectness.",
+        "topic": "Frequency of errors and media influence"
+      },
+      {
+        "quote": "Like the early examples of Google's AI, such as, \"How much glue should you eat in a day?\" ... \"You should add glue.\"",
+        "topic": "Memorable viral failures shaping perception"
+      },
+      {
+        "quote": "I would need to give it more time to get better.",
+        "topic": "Condition for higher trust"
+      },
+      {
+        "quote": "I also know what an LLM is and that it's looking for the most logically likely or most statistically likely next kind of chain of words and ideas.",
+        "topic": "Understanding of underlying technology"
+      },
+      {
+        "quote": "2 - Low trust",
+        "topic": "Self‑rated trust level"
+      },
+      {
+        "quote": "I’d like a personal AI assistant to help me organize my calendar, which can be really laborious to do by hand.",
+        "topic": "Desired core functionality"
+      },
+      {
+        "quote": "My kid's school calendar comes home on paper, I get things over text, and I receive new invites in my email. I want it to gather information from all of those sources and correctly consolidate it into one place.",
+        "topic": "Integration need across multiple data sources"
+      },
+      {
+        "quote": "It would save me time and mental energy and help me stop forgetting to do things.",
+        "topic": "Benefit of calendar automation"
+      },
+      {
+        "quote": "Just like if I get a text about an event, I have to remember and take the time to put it on our calendar manually.",
+        "topic": "Current manual pain point"
+      },
+      {
+        "quote": "I think it would have to be, I wouldn't even say endorsed by leading financial services because I feel like everyone's trying to sell an AI right now.",
+        "topic": "Skepticism toward AI financial advice"
+      },
+      {
+        "quote": "It would enable me to have a brain outside of myself. Not that I want a brain outside of myself, but like a second pair of hands, a second brain for boring administrative rote tasks...",
+        "topic": "Concept of AI as a “second brain”"
+      },
+      {
+        "quote": "An interviewer might have picked up on my exasperation or probed a little differently.",
+        "topic": "Perceived limitation of AI interviewers"
+      },
+      {
+        "quote": "I feel like this AI was good in that it was a bit more specific with my feedback.",
+        "topic": "Positive aspect of AI interview"
+      },
+      {
+        "quote": "It's a lot of reading and clicking, whereas a person just talking might make it flow easier and feel more conversational.",
+        "topic": "Interaction format drawback"
+      },
+      {
+        "quote": "I think this is reasonable for things like surveys or diary studies to ask follow-ups, and it's a little bit easier for a user to engage with as opposed to recording a video for each response or typing a lot in a diary study.",
+        "topic": "Preferred contexts for AI‑driven data collection"
+      }
+    ],
+    "unique_insights": "The participant frames the ideal AI assistant as a \"second brain\" that offloads routine, detail‑heavy tasks (like consolidating calendar events from paper, texts, and email) rather than as a decision‑making authority. Trust is not just about accuracy; it is also shaped by broader media narratives and the participant's mental model of LLMs as statistical generators. Even though the participant is skeptical of AI for high‑stakes work, they see clear value for AI‑mediated surveys and diary studies, suggesting a nuanced split between contexts where AI is acceptable (low‑effort data collection) versus where human interaction is preferred (nuanced probing, conversational flow)."
+  },
+  {
+    "participant_id": "en_response_0014.txt",
+    "key_behaviors": [
+      "Uses ChatGPT and Claude daily for personal tasks",
+      "Employs AI as a thinking partner to get perspective on many topics",
+      "Feeds drafts of emails, texts, work documents, and even book chapters to AI for editing",
+      "Iteratively edits AI output, often multiple rounds before finalizing",
+      "Uses AI to summarize large amounts of publicly‑available data instead of consulting many people",
+      "Attempts to use AI for emotional support when a human is unavailable",
+      "Wishes AI could handle physical errands and household chores"
+    ],
+    "pain_points": [
+      "AI edits are often imperfect, requiring the user to make manual changes (“I don’t like to tell the AI what to change because it doesn’t always get it right”)",
+      "Conversational AI feels unsatisfying for emotional support – it “overdoes it” and talks too fast, lacking human nuance",
+      "Low overall trust in AI suggestions (rated 2 – Low trust)",
+      "Privacy and security concerns about giving AI access to logins, passwords, or credit‑card information",
+      "Voice‑only interview format feels unnatural and disjointed; AI cuts off or doesn’t pause long enough"
+    ],
+    "trust_factors": [
+      "Strong need for privacy and data security (“it should be like a Google robot with liability measures built in… that it won’t share my data with others”)",
+      "Desire for clear liability guarantees from the provider",
+      "Low trust in AI output despite frequent use"
+    ],
+    "desires": [
+      "An AI assistant that can perform physical tasks – run errands, clean the house, do laundry – to free up time for family",
+      "Seamless integration with existing tools (calendar, email, inbox) to automate manual chores",
+      "Better conversational flow: slower speech, appropriate pauses, more natural turn‑taking",
+      "A voice module that can read questions aloud naturally and avoid cutting the user off",
+      "Improved emotional‑support capability that feels less “clunky”"
+    ],
+    "verbatim_quotes": [
+      {
+        "quote": "I use AI for a lot of things that I normally would have gone to a human for, but now I just do it a lot more.",
+        "topic": "AI as substitute for human input"
+      },
+      {
+        "quote": "When the thinking requires processing a lot of data that humans can't possibly access, the value lies in its ability to give me perspective based on a vast amount of publicly available data.",
+        "topic": "Thinking partner value"
+      },
+      {
+        "quote": "I might draft an email, and I will feed the AI my draft. Then I will ask it to edit it, and it will do that. After that, I might edit the AI's output and put it back in, asking it to edit it again.",
+        "topic": "Iterative writing workflow"
+      },
+      {
+        "quote": "I don't like to tell the AI what to change because it doesn't always get it right.",
+        "topic": "Pain point with AI editing"
+      },
+      {
+        "quote": "It's unsatisfying because it's not a real human. Also, I think as far as models go, they're just not there yet with this kind of information and this kind of interaction.",
+        "topic": "Emotional‑support limitation"
+      },
+      {
+        "quote": "When I try, it's just unsatisfying… it would talk too fast. I would pause to think, and it would move ahead.",
+        "topic": "Conversational cadence issue"
+      },
+      {
+        "quote": "On average, how much do you trust the results or suggestions you get from AI tools? – 2 - Low trust",
+        "topic": "Trust rating"
+      },
+      {
+        "quote": "If I had a perfect AI assistant, it would run errands for me, clean the house, and do all sorts of tasks. So, it would need to move beyond the computer and chatbot space and venture into robotics.",
+        "topic": "Desire for physical AI assistant"
+      },
+      {
+        "quote": "Because those are tasks I don't value as much. I want my attention to be focused on connecting with other humans… Anything that would free up time for the three of us to connect… is important.",
+        "topic": "Motivation for delegating chores"
+      },
+      {
+        "quote": "It should be like a Google robot with liability measures built in, and Google should guarantee that it won't share my data with others and that my security is protected.",
+        "topic": "Privacy & security requirement"
+      },
+      {
+        "quote": "This is weird because you're not talking and I'm talking. So I think I prefer the live experience better than this and that.",
+        "topic": "Unnatural voice‑only interview experience"
+      },
+      {
+        "quote": "I don't know. I'm just not used to talking to myself, I guess, and I'm talking into something… it feels really strange.",
+        "topic": "Discomfort with AI interview format"
+      },
+      {
+        "quote": "The Wiser interface is pretty close; it only cut me off a couple of times… Now it's just about getting your voice module to come in and actually say the questions out loud.",
+        "topic": "Improvement suggestion for AI voice interaction"
+      }
+    ],
+    "unique_insights": "The participant heavily relies on AI for routine cognitive tasks (writing, data summarization) and treats it as a scalable substitute for consulting multiple human experts, yet still rates trust very low and refuses to grant it deep access to personal accounts. Their vision of an ideal assistant extends beyond software to embodied robotics that handle household chores, explicitly to protect time for family connection—a motivation that links task automation directly to emotional wellbeing rather than productivity alone."
+  },
+  {
+    "participant_id": "en_response_0015.txt",
+    "key_behaviors": [
+      "Uses AI tools (Google Gemini, Microsoft Copilot, ChatGPT) daily for personal tasks",
+      "Queries AI for quick factual summaries and then follows up with deeper research (e.g., Wikipedia links)",
+      "Leverages AI to plan detailed vacation itineraries, including minute‑by‑minute schedules and travel times",
+      "Exports AI‑generated itineraries as PDFs and imports/edits them",
+      "Uses AI for everyday conversions, measurements, and simple scheduling charts",
+      "Relies on AI at work for testing code and occasional code generation",
+      "Attempts creative tasks with AI (music lesson planning, riff generation) and notes when it fails"
+    ],
+    "pain_points": [
+      "AI can hallucinate or provide inaccurate facts, requiring user verification",
+      "Creative prompts get stuck on the same suggestion (e.g., music riff) and lack true novelty",
+      "Model lacks training data for specific frameworks, leading to failed code generation",
+      "Limited ability to organize information in a way that matches the user’s personal workflow",
+      "Potential intrusiveness of notifications; desire for control over when AI interrupts",
+      "Current tools do not automate routine purchases (groceries, pet food) or bill payments with a safety layer",
+      "Interview with AI felt one‑way; lack of immediate feedback or “bounce‑off” interaction"
+    ],
+    "trust_factors": [
+      "Moderate trust level (rated 3) – sees AI as a starting point rather than final authority",
+      "Cross‑checks AI summaries with external sources (links, Wikipedia) before acting",
+      "Desires a security/verification layer for financial actions (e.g., flagging unusual transactions)",
+      "Prefers AI that integrates with existing calendars and emails but still leaves final decisions to the user"
+    ],
+    "desires": [
+      "Seamless, non‑intrusive integration with calendar, email, and a central hub for all personal data",
+      "Automatic ordering of recurring items (groceries, pet food) with user‑set priority levels",
+      "AI‑driven bill‑paying assistance that double‑checks amounts and flags anomalies while keeping the user in control",
+      "Interactive, conversational capability that allows follow‑up questions and “bouncing ideas off” the assistant",
+      "Ability to generate and export ready‑to‑use documents (PDF itineraries, meeting schedules) directly into personal workflows",
+      "Fine‑grained control over notification frequency and modality (phone notification vs. voice interruption)"
+    ],
+    "verbatim_quotes": [
+      {
+        "quote": "I use Gemini for any kind of random tidbit of fact that I've kind of either am currently discussing about or just to have any kind of questions about it.",
+        "topic": "Fact‑checking / quick information lookup"
+      },
+      {
+        "quote": "I did use it to kind of help me organize a itinerary… it’s pretty good at suggest suggesting, like, not only produce suggestions, but to help fill up, like, blank spots and itinerary… down to the minute‑by‑minute detail.",
+        "topic": "Vacation planning and detailed itinerary generation"
+      },
+      {
+        "quote": "It just gives a nice summary about, like, the details on it. And then I'll follow‑up with that through either going to, like, a Wiki link and finding more information there.",
+        "topic": "Using AI as an onboarding summary before deeper research"
+      },
+      {
+        "quote": "I was trying to make a music lesson plan… it kept suggesting me the same model or started the same riff.",
+        "topic": "Creative task limitation / lack of novelty"
+      },
+      {
+        "quote": "The decoding issue… the model hasn't been run or trained on that data, it needs more training.",
+        "topic": "Technical limitation in code generation"
+      },
+      {
+        "quote": "I would say it definitely doesn't hinder me too much because it invites me to engage in the creative process myself.",
+        "topic": "Attitude toward AI failures in creative tasks"
+      },
+      {
+        "quote": "On average, how much do you trust the results… 3 - Moderate trust",
+        "topic": "Self‑reported trust level"
+      },
+      {
+        "quote": "It would have to pretty seamlessly, like, be integrated into my daily life… not so intrusive as where it's constantly… I would need to be in control of that myself.",
+        "topic": "Desire for seamless yet controllable integration"
+      },
+      {
+        "quote": "If it could automatically order groceries… that would be pretty ideal… a good mixture of, like, a reminder and automation.",
+        "topic": "Automation of routine purchases"
+      },
+      {
+        "quote": "Having something to double‑check is helpful… I still check my banking statement monthly, but being able to catch it right when it happens might help prevent it…",
+        "topic": "Financial safety layer and double‑checking"
+      },
+      {
+        "quote": "The experience is a little bit different… there's a lack of feedback; it's just me talking into the void… I need something to bounce off of.",
+        "topic": "Need for interactive dialogue in AI interactions"
+      },
+      {
+        "quote": "Having facts bombarded at you… it's information overload. If you don't get that beat to absorb what you have or if I have a question, you should be able to ask about it and have it come back at you.",
+        "topic": "Preference for two‑way conversational flow"
+      }
+    ],
+    "unique_insights": "The participant repeatedly emphasizes the need for an AI that acts as a \"personal sounding board\"—a tool they can \"bounce\" ideas off of, both in creative contexts (music lesson planning) and everyday decision‑making (financial alerts). This desire for interactive, bidirectional dialogue is framed as essential for processing information without overload, and it surfaces even when discussing the AI‑driven interview itself. While they express moderate trust and acknowledge hallucinations, they are willing to accept AI as a fast, integrative assistant so long as it remains controllable, non‑intrusive, and provides a safety net for routine, repetitive tasks."
+  },
+  {
+    "participant_id": "en_response_0016.txt",
+    "key_behaviors": [
+      "Uses ChatGPT and Google Gemini multiple times per day for personal tasks",
+      "Leverages AI to correct and re‑word emails for grammar and tone",
+      "Creates workout schedules and formatted plans via AI prompts",
+      "Uses AI as an “extended Google search” to get deeper explanations on topics",
+      "Attempts to generate spreadsheet formulas and Python code with AI assistance"
+    ],
+    "pain_points": [
+      "Cannot fully trust AI output – only 80‑90% confidence, must verify details",
+      "AI‑generated code often fails on first try, requiring manual debugging",
+      "More complex tasks demand extra time to clean up AI‑produced results",
+      "AI sometimes provides information that is not completely accurate or authentic"
+    ],
+    "trust_factors": [
+      "Accuracy and reliability of the answer",
+      "Consistency of output across repeated queries",
+      "Ability to verify information easily",
+      "Natural, non‑robotic tone that feels human‑like"
+    ],
+    "desires": [
+      "A single daily briefing that shows schedule, weather, clothing suggestions, and reminders",
+      "Full integration with calendar and email so the assistant can plan the day and week automatically",
+      "Concise, visually appealing formatting that requires no further editing",
+      "An assistant that sounds natural rather than robotic",
+      "All needed information at a glance without hopping between multiple apps or websites"
+    ],
+    "verbatim_quotes": [
+      {
+        "quote": "Some personal tasks that I use AI for include correcting emails and rewording them to ensure the grammar is correct and that the words are used as intended.",
+        "topic": "email correction"
+      },
+      {
+        "quote": "Other examples would be creating a workout schedule for exercising and using it almost like an extended Google search for deeper explanations of what I'm trying to find.",
+        "topic": "workout scheduling & deep research"
+      },
+      {
+        "quote": "The value that these AI tools provide is that it puts a lot of detail into one place that I can then read through as necessary.",
+        "topic": "information aggregation"
+      },
+      {
+        "quote": "It definitely does it a lot quicker than it would take for me to do it myself.",
+        "topic": "time savings"
+      },
+      {
+        "quote": "You can kind of trust, you know, around 80 to 90% of it. You do have to go into details of reading every piece... to make sure that you are getting a complete answer that's accurate.",
+        "topic": "trust limitation"
+      },
+      {
+        "quote": "A specific example would be asking AI to produce code for a specific task, like a spreadsheet formula. When you use the AI output, it often doesn't work, and you have to go in and correct it yourself.",
+        "topic": "code generation failure"
+      },
+      {
+        "quote": "It does work the first time for simpler tasks. For more complex tasks, you end up spending more time.",
+        "topic": "complexity vs. effort"
+      },
+      {
+        "quote": "I think the most important things a perfect AI personal assistant would do would be to provide you with the information you need on a daily basis. ... It should also be aware of your schedule and give you reminders if necessary. Additionally, it shouldn't sound too robotic; the output it provides should feel natural.",
+        "topic": "ideal assistant features"
+      },
+      {
+        "quote": "Is it able to have everything that you need at a glance instead of having to go to each and every website or application to dig and find it on your own?",
+        "topic": "consolidated view desire"
+      },
+      {
+        "quote": "If the AI personal assistant had full access to your calendar and emails, then it would be able to plan out your day and your week for you.",
+        "topic": "full access integration"
+      },
+      {
+        "quote": "AI does produce things very quickly, concisely, and clearly, but speaking with a human offers a more personal experience.",
+        "topic": "human vs. AI interview"
+      },
+      {
+        "quote": "When speaking with a human, you are learning something from the person you are engaging with. ... the AI interviewer is extracting as much information from me as possible. However, I'm not really gaining any further input into my own conversation.",
+        "topic": "lack of reciprocal dialogue"
+      },
+      {
+        "quote": "It does make me a little more guarded. On the other hand, I feel like I can share more since it is to an AI robot versus a human.",
+        "topic": "guardedness vs. openness with AI"
+      }
+    ],
+    "unique_insights": "The participant perceives a paradox: AI interviews feel less judgmental, encouraging more openness, yet the one‑sided information flow makes them more guarded. They also stress that an ideal assistant must blend high accuracy with a natural, non‑robotic voice, and act as a single hub that pulls in calendar and email data to eliminate the need to switch between multiple apps."
+  },
+  {
+    "participant_id": "en_response_0017.txt",
+    "key_behaviors": [
+      "Uses multiple AI tools (Marvin, Sidecar, Perplexity, Gemini, ChatGPT, Claude, Obsidian, Zotero, Notion, Glasp, Atlas, Comet, LLM Notebook, Otter) multiple times per day",
+      "Leverages AI for citation gathering, PDF analysis, and literature summarization for a book on synchronicity",
+      "Applies AI to shopping decisions via value‑analysis prompts in Perplexity",
+      "Builds a personal “writing stack” that combines note‑taking, bibliography, and LLM tools",
+      "Attempts to automate file organization on Google Drive and Mac using semantic analysis",
+      "Uses AI to outline books, generate chapter summaries, and imitate specific writing styles",
+      "Employs AI for marketing tasks such as social‑media post generation and ad‑placement planning",
+      "Explores no‑code app creation and AI‑driven calendar/email digestion",
+      "Relies on AI as a memory substitute and ghost‑writer replacement"
+    ],
+    "pain_points": [
+      "Difficulty orchestrating many tools together; integration feels intimidating",
+      "File‑organization task stalled for months because AI guidance is strategic but not step‑by‑step",
+      "AI sometimes produces malformed PDFs or incorrect formatting, requiring manual correction",
+      "Hallucinations and citation‑accuracy concerns; must verify sources manually",
+      "Lack of transparent, clickable implementation guides (“hand‑holding”) for complex setups",
+      "Technical glitches (e.g., Wi‑Fi drops, UI crashes) interrupt workflow",
+      "Learning curves for tab‑management, LLM notebooks, and no‑code platforms",
+      "Brain fatigue and mental overload trigger abandonment of AI attempts"
+    ],
+    "trust_factors": [
+      "High overall trust rating (4 – High trust)",
+      "Confidence that AI can supply accurate citations and citation rankings",
+      "Perception that newer model versions (ChatGPT 5.1) sound more human and reliable",
+      "Appreciation for AI’s ability to summarize PDFs quickly",
+      "Trust in AI’s ability to fact‑check and cross‑reference citations when prompted"
+    ],
+    "desires": [
+      "An assistant that automatically finds studies, ranks citations, and suggests the most credible sources",
+      "Step‑by‑step, clickable workflows for setting up the writing stack and file‑organization",
+      "AI that can generate outlines, adopt a chosen authorial style, and prompt for personal anecdotes when needed",
+      "Seamless integration with calendar, email, and note‑taking so AI can digest and summarize incoming information",
+      "A “staff of ten” that handles low‑level tasks: email triage, calendar scheduling, social‑media posting, ad‑budget optimization",
+      "Real‑time speech‑analysis feedback that can interrupt a user’s chain of thought with helpful prompts",
+      "No‑code app creation support and automated marketing campaign generation"
+    ],
+    "verbatim_quotes": [
+      {
+        "quote": "I'm adopting Carl Jung's concept of synchronicity as an antidote to the emotional ups and downs that come with luck.",
+        "topic": "Research focus and motivation"
+      },
+      {
+        "quote": "GPTs are fantastic for providing citations that give me the confidence that what they're telling me is correct.",
+        "topic": "Value of AI‑generated citations"
+      },
+      {
+        "quote": "I have to use my common sense in all of these cases because there might be some hallucination in there.",
+        "topic": "Awareness of AI hallucinations"
+      },
+      {
+        "quote": "The biggest challenge… is my own intimidation, but I know I can do it.",
+        "topic": "Psychological barrier to tool integration"
+      },
+      {
+        "quote": "I would like to tell it what I'm interested in, find studies, and provide me with citation rankings so I can determine if the ideas I like have sufficiently high citation rankings.",
+        "topic": "Desired citation‑ranking feature"
+      },
+      {
+        "quote": "I want AI to read all those summaries and give me a top‑level view.",
+        "topic": "Email/summary digestion desire"
+      },
+      {
+        "quote": "AI fits my cognitive style. I like to do things fast, and if I know the field, I'm using recognition memory.",
+        "topic": "Trust based on cognitive fit"
+      },
+      {
+        "quote": "I would be a business equivalent to a staff of ten to handle all these details.",
+        "topic": "Vision of AI as a virtual staff"
+      },
+      {
+        "quote": "I actually prefer being interviewed by an AI. I don't have to worry about sounding nice to a human, smiling at them, or offering them coffee.",
+        "topic": "Preference for AI interview format"
+      },
+      {
+        "quote": "The AI reflected back my statements with the right amount of gratitude, making me feel like my statements were contributing to their body of knowledge.",
+        "topic": "Positive perception of AI active listening"
+      }
+    ],
+    "unique_insights": "The participant treats AI not merely as a tool but as a cognitive extension that compensates for a recognition‑based memory style, effectively acting as a personal ghostwriter and a virtual staff of ten. He envisions AI handling low‑level operational work (email triage, calendar management, marketing automation) so he can focus exclusively on high‑level intellectual creation, and he explicitly links this to a broader cultural democratization narrative—AI as the next wave that lets non‑English speakers and non‑experts package ideas confidently. Additionally, he prefers AI‑mediated interviews because they eliminate social performance pressures, highlighting a rare user need for non‑judgmental, purely content‑focused dialogue."
+  },
+  {
+    "participant_id": "en_response_0018.txt",
+    "key_behaviors": [
+      "Uses multiple AI tools (ChatGPT, Microsoft Copilot, Google Gemini) on a weekly basis for personal tasks",
+      "Creates grocery lists and bi‑weekly task schedules with AI",
+      "Leverages AI to generate multiple list and chart formats to visualize options",
+      "Relies on AI to explore scheduling alternatives for extracurricular activities",
+      "Wishes AI could automatically generate a full weekly schedule that includes work and leisure"
+    ],
+    "pain_points": [
+      "Current AI tools cannot map out structured break times within timed tasks",
+      "Low confidence in AI suggestions (trust rating of 2/5)",
+      "Perceived lack of integration with existing calendar/email systems (sees no added value)",
+      "Discomfort with AI‑driven interview format leading to limited disclosure"
+    ],
+    "trust_factors": [
+      "Low trust overall (rating 2 – Low trust)",
+      "Perception that AI does not yet exist for certain niche functions (e.g., break‑timing)",
+      "Absence of human warmth or interaction reduces confidence in AI outputs"
+    ],
+    "desires": [
+      "An AI assistant that automatically creates a complete weekly schedule covering work and leisure",
+      "Ability to “jump into” tasks immediately without manual planning",
+      "Seamless connection to personal calendar to enable schedule generation (even though participant said “nothing”, the desire for integration is implied)"
+    ],
+    "verbatim_quotes": [
+      {
+        "quote": "ChatGPT, Microsoft Copilot, Google Gemini",
+        "topic": "AI tools used"
+      },
+      {
+        "quote": "Weekly",
+        "topic": "Frequency of personal AI use"
+      },
+      {
+        "quote": "creating grocery lists and organizing a biweekly schedule for tasks that I need to get done throughout the week.",
+        "topic": "Typical personal tasks"
+      },
+      {
+        "quote": "The AI tools give me a way to create multiple types of lists and charts to see, so I have a full picture of all my options.",
+        "topic": "Value of AI over manual methods"
+      },
+      {
+        "quote": "Creating a weekly schedule based on extracurricular activities, like when I can schedule a dance practice, have a lunch meeting, go to the store, or visit the salon, can show me different options for when I can do these things throughout the week.",
+        "topic": "How AI helps visualize scheduling options"
+      },
+      {
+        "quote": "I wanted to use AI to map out the specific times that I needed to take a break during a timed task, indicating when I should take the break and when I should return. However, I could not do this because AI did not exist yet.",
+        "topic": "Unmet need / pain point"
+      },
+      {
+        "quote": "I find myself not needing a structured schedule very often. It is not much of a problem if I cannot get that guidance.",
+        "topic": "Frequency/importance of break‑timing feature"
+      },
+      {
+        "quote": "2 - Low trust",
+        "topic": "Trust level in AI suggestions"
+      },
+      {
+        "quote": "Create a weekly schedule for me to go to work, schedule in my leisure tasks, and layout the times that work for me.",
+        "topic": "Ideal AI assistant functionality"
+      },
+      {
+        "quote": "I could then easily jump in and do all the tasks rather than having to sit down and think, plan, and organize. I could simply just jump into the tasks.",
+        "topic": "Desired benefit of perfect assistant"
+      },
+      {
+        "quote": "I don't know.",
+        "topic": "Uncertainty about integration specifics"
+      },
+      {
+        "quote": "Nothing.",
+        "topic": "Perceived benefit of calendar connection"
+      },
+      {
+        "quote": "I don't like this very much.",
+        "topic": "Feelings about AI interview"
+      },
+      {
+        "quote": "There is no human interaction or warmth.",
+        "topic": "Reason for discomfort with AI interview"
+      },
+      {
+        "quote": "I am not sharing many details as I would to a person.",
+        "topic": "Impact of AI interview on disclosure"
+      }
+    ],
+    "unique_insights": "The participant exhibits a paradoxical relationship with AI: despite a low trust rating (2/5) and limited confidence in AI's capabilities, they still use AI weekly for routine planning and explicitly desire an AI that eliminates the need for manual scheduling. Their primary frustration is not technical (e.g., poor accuracy) but experiential—missing human warmth in AI interactions, which they feel reduces the richness of their responses and overall engagement."
+  },
+  {
+    "participant_id": "en_response_0019.txt",
+    "key_behaviors": [
+      "Uses AI tools (Microsoft Copilot, ChatGPT) multiple times per day for personal tasks",
+      "Asks complex, specific questions that would be hard to phrase for a Google search",
+      "Requests long, structured outputs such as workout programs, recipes, and step‑by‑step guides",
+      "Bounces software‑project ideas off the AI and iterates on them",
+      "Copies and pastes code snippets or error messages for debugging assistance",
+      "Attempts to have the AI set up a CUDA development environment",
+      "Relies on AI to explain technical problems in plain English",
+      "Wishes the AI would remember spontaneous ideas and grocery items throughout the day"
+    ],
+    "pain_points": [
+      "AI becomes “stubborn” and repeats the same suggestions when it cannot solve an ambiguous problem",
+      "Fixation on a limited set of answers, especially for technical setup issues like CUDA",
+      "Inconsistent keyword detection – the AI follows some words but ignores others",
+      "Lack of nuanced follow‑up questions, leading to missed conversational depth",
+      "When AI fails, the participant must revert to time‑consuming Google/Reddit/Stack Overflow searches",
+      "Concern that deep OS integration could give the AI too much control (privacy/agency worries)",
+      "AI interview format feels impersonal and can overlook important nuances"
+    ],
+    "trust_factors": [
+      "High overall trust (rated 4 out of 5)",
+      "Appreciates that AI can explain technical issues in clear English",
+      "Values the ability to correct the AI and have it adjust its answer",
+      "Likes the conversational, back‑and‑forth style that feels more like a dialogue than a one‑shot search"
+    ],
+    "desires": [
+      "An assistant that automatically captures and organizes random ideas, then turns them into actionable game plans",
+      "Automatic grocery‑list management that adds items when the user notices they’re missing",
+      "Deep integration with native apps (Calendar, Mail, Notes) and possibly the operating system for seamless task creation",
+      "Capability for the AI to “continue thinking” on a user’s idea while they are occupied and later present its findings",
+      "More consistent, context‑aware follow‑up that picks up on nuanced topics rather than just keywords"
+    ],
+    "verbatim_quotes": [
+      {
+        "quote": "The most common types of personal tasks I use AI for are those where I'm asking complex questions that I don't want to type into Google because they're too specific and complex.",
+        "topic": "Complex question seeking"
+      },
+      {
+        "quote": "I can paste snippets of code that aren't working or error messages, and I can talk through it with the AI, which can explain itself.",
+        "topic": "Technical debugging assistance"
+      },
+      {
+        "quote": "It allows me to talk through something without having to generalize the problem. Because in Google, if I have a very specific error, I have to search for something that can pull up a broad range of topics and then search through those articles to see if they address something similar.",
+        "topic": "Conversational advantage over traditional search"
+      },
+      {
+        "quote": "The problem with AI, especially with ChatGPT, is that I think it gets fixated on a few answers. If I try all those things and they don't work, it just starts repeating itself.",
+        "topic": "AI getting stuck / repetition"
+      },
+      {
+        "quote": "I'll probably spend a good fifteen to twenty minutes doing this because I feel like with most problems, it is significantly faster to spend fifteen to twenty minutes talking with AI than it is to even attempt to find it on Google.",
+        "topic": "Time trade‑off when AI fails"
+      },
+      {
+        "quote": "I think if I had a perfect AI assistant, it would keep track of my random ideas throughout the day. Later, when I'm ready, it would sit down and walk me through all those ideas, breaking them down into game plans to achieve them.",
+        "topic": "Desired idea‑tracking feature"
+      },
+      {
+        "quote": "I have a really bad memory, and AI doesn't, so it can keep track of those things for me. Honestly, it being AI rather than just a notes app doesn't make a difference.",
+        "topic": "Memory aid motivation"
+      },
+      {
+        "quote": "I think it's getting to the point where AI is probably going to be built into an operating system. ... It would be harder for it to access other apps, but it would definitely have access to those, and it could create events and track emails.",
+        "topic": "Vision of OS‑level integration"
+      },
+      {
+        "quote": "It feels like there's less pressure. I get to think about my answers before I click record, which is nice.",
+        "topic": "Low‑pressure AI interview experience"
+      },
+      {
+        "quote": "From a biased perspective, though, you're less likely to have any kind of bias when talking to someone. If there's a person I'm talking to, maybe I'd avoid saying certain things to not offend them ... But with this, I'm going to be exact. I'm going to say exactly what I want to say because you're a robot and you don't have feelings.",
+        "topic": "Perceived reduction of social bias"
+      }
+    ],
+    "unique_insights": "The participant sees AI not only as a faster information source but as a memory extension that could autonomously continue working on ideas while they are occupied—a capability they describe as \"AI continuing to think by itself\". They also highlight a paradox: while they trust AI highly for concrete explanations, they experience a strong need to revert to traditional search when the AI hits ambiguous problems, indicating a trust boundary tied to problem specificity. Additionally, the participant perceives AI interviews as both less stressful and less nuanced, noting that the lack of human emotion removes social bias but also removes the empathetic cues that can enrich authentic communication."
+  },
+  {
+    "participant_id": "en_response_0020.txt",
+    "key_behaviors": [
+      "Uses AI tools (Google Gemini, ChatGPT) less than monthly",
+      "Uses AI for travel planning to aggregate and filter large amounts of information",
+      "Uses AI for recipe ideas but often falls back to trusted websites",
+      "Attempted AI‑generated line art for a custom insulated cup",
+      "Uses AI at work to answer questions, noting source limitations",
+      "Wants AI to integrate with calendar (and optionally email) for reminders and meeting context",
+      "Seeks AI assistance for weekly planning, grocery lists, and breaking down persistent to‑do items",
+      "Values AI as a reflective partner that can ask back‑and‑forth questions to overcome mental blocks"
+    ],
+    "pain_points": [
+      "Need to manually refine prompts and context for recipes, leading to extra effort",
+      "Uncertainty about reliability and completeness of internet sources for travel info",
+      "Back‑and‑forth iteration fatigue when AI does not quickly produce a usable travel itinerary",
+      "AI image generation failed to meet specific design requirements (border, etching detail)",
+      "Reluctance to grant email access due to privacy concerns, limiting integration",
+      "Repetitive follow‑up questions from the AI interview feel “parroting” and annoying",
+      "Medium frustration threshold when the task is unfamiliar or AI returns poor results",
+      "AI sometimes cannot answer because of source limitations"
+    ],
+    "trust_factors": [
+      "Self‑rated moderate trust (3 out of 5)",
+      "Higher trust when AI aggregates consensus from multiple sources (“if you have a lot of people mentioning or commenting on the same thing”)",
+      "Trust linked to perceived ability to filter out unreliable information",
+      "Willingness to keep trying because the participant believes AI will improve over time"
+    ],
+    "desires": [
+      "Assistant that reminds of calendar events (work and social)",
+      "Ability to recall who discussed which topics in past meetings",
+      "Weekly planning support for groceries, meetings, and personal tasks",
+      "Optimization of time and prevention of dropped tasks",
+      "Help breaking down persistent to‑do items into manageable steps",
+      "Reflective dialogue that helps identify and overcome mental blocks",
+      "Integration with calendar (optional email sync) for context‑aware suggestions",
+      "Provision of unique, non‑redundant insights rather than repetitive information"
+    ],
+    "verbatim_quotes": [
+      {
+        "quote": "Google Gemini, ChatGPT",
+        "topic": "AI tools used"
+      },
+      {
+        "quote": "Less than monthly",
+        "topic": "Frequency of personal AI use"
+      },
+      {
+        "quote": "Personal tasks that I've used AI for include planning travel, where there's a lot of information on the Internet that I don't want to sift through.",
+        "topic": "Travel planning use case"
+      },
+      {
+        "quote": "I think with AI, it can scan through internet sources or sources in general much more quickly, and I can refine the types of results that are returned much more easily than I would if I were tracking things in a spreadsheet or a text document.",
+        "topic": "Perceived AI advantage (speed & filtering)"
+      },
+      {
+        "quote": "The tedium is in the repetition, and if I can ask AI to be that filter for me and bring me just the best tidbits, that's worth it because I don't want to spend time reading things over and over again.",
+        "topic": "Value of AI as filter"
+      },
+      {
+        "quote": "I think AI is maybe less useful because I feel like I can get to the recipes I'm interested in in just about the same amount of time.",
+        "topic": "Recipe use case limitation"
+      },
+      {
+        "quote": "When I ask AI to help with recipes, there's a lot of context setting that I might need to do sometimes or a whole bunch of refining.",
+        "topic": "Recipe use case friction"
+      },
+      {
+        "quote": "There was a time I wanted to use AI to generate line art of two people so that I could get it printed on an insulated cup.",
+        "topic": "Failed image‑generation attempt"
+      },
+      {
+        "quote": "Sometimes, I feel the limitation is in my willingness to spend the time refining with the system versus just going through a couple of iterations and then doing the rest myself.",
+        "topic": "Iteration fatigue"
+      },
+      {
+        "quote": "No, it's not a severe frustration. I mean, I could see working with a person being just as frustrating.",
+        "topic": "Frustration level"
+      },
+      {
+        "quote": "3 - Moderate trust",
+        "topic": "Trust rating"
+      },
+      {
+        "quote": "I think a personal assistant would remind me of the things I have scheduled on my calendar, whether work-related or social.",
+        "topic": "Desired reminder function"
+      },
+      {
+        "quote": "It would be able to tell me who I talked to about specific topics, especially at work.",
+        "topic": "Desired conversation tracking"
+      },
+      {
+        "quote": "I would love to have an assistant help me plan my week better in terms of groceries, meetings, and things to do.",
+        "topic": "Weekly planning desire"
+      },
+      {
+        "quote": "I want to know how to optimize my time and avoid dropping the ball on tasks.",
+        "topic": "Time‑optimization desire"
+      },
+      {
+        "quote": "I need help figuring out how to stop moving that to‑do item from day to day, week to week.",
+        "topic": "Persistent to‑do assistance"
+      },
+      {
+        "quote": "Being able to have someone to help me reflect on that, a tool to help me reflect on that, could be helpful with either finishing the items or taking them off the to‑do list.",
+        "topic": "Reflective support"
+      },
+      {
+        "quote": "I think the idea of having a back‑and‑forth helps with getting through the blocks.",
+        "topic": "Back‑and‑forth dialogue value"
+      },
+      {
+        "quote": "For sure, it could connect with my calendar and my email and all that. I'm not sure I'd want it to connect to my email, but the calendar connection would make sense.",
+        "topic": "Integration preferences"
+      },
+      {
+        "quote": "the more detailed the answers got, the more repetitive the follow‑up questions sounded",
+        "topic": "Interview experience – repetitive AI questions"
+      },
+      {
+        "quote": "I am giving more leeway around the oddly repetitive sounding questions.",
+        "topic": "Leeway given to AI vs. human"
+      },
+      {
+        "quote": "Because I don't think AI is at a human level of interviewing just yet. That'll probably change in the near future, but right now, knowing this is an AI, I am giving more leeway around the oddly repetitive sounding questions.",
+        "topic": "Expectation management for AI"
+      }
+    ],
+    "unique_insights": "The participant explicitly grants AI more leeway than a human interviewer, tolerating repetitive or \"parroting\" questions because they view the AI as still immature. They see AI primarily as a high‑volume filter that can surface consensus‑based reliable information, yet they struggle with AI’s inability to retain personal preference history (e.g., recipe sources). Their frustration is not about AI failing outright but about the extra effort required to refine prompts, especially when they already know how to accomplish the task. The desire for reflective, back‑and‑forth dialogue to overcome procrastination‑related blocks is a novel use case that goes beyond simple task automation."
+  },
+  {
+    "participant_id": "en_response_0021.txt",
+    "key_behaviors": [
+      "Uses AI tools (Google Gemini, ChatGPT) on a weekly basis for personal tasks",
+      "Uploads class objectives or PowerPoint slides to generate practice exam questions",
+      "Uses AI as an editor for grammar and style improvements in papers",
+      "Prefers web‑based AI over installed software (e.g., Grammarly) because it runs cooler on the laptop",
+      "Employs AI for brainstorming ideas despite occasional hallucinations",
+      "Cross‑checks AI‑generated content against personal notes to verify accuracy",
+      "Envisions AI assisting with meal planning, grocery shopping, budgeting, and calendar/email management"
+    ],
+    "pain_points": [
+      "AI sometimes provides false or fabricated information (hallucinations) that is hard to detect",
+      "Time wasted verifying inaccurate AI output, especially when searching for non‑existent studies",
+      "Grammarly overheats the computer, making the web AI feel more convenient",
+      "Lack of seamless integration with personal systems (calendar, email) limits usefulness",
+      "AI appears to recognize buzzwords without true understanding, leading to shallow conversations"
+    ],
+    "trust_factors": [
+      "Moderate overall trust (rated 3/5)",
+      "Higher trust when AI output can be validated against personal notes or known sources",
+      "Trust increased by convenience and performance (web AI runs smoother than installed tools)",
+      "Trust decreased by hallucinations and inability to verify information automatically"
+    ],
+    "desires": [
+      "AI that can generate meal‑prep ideas using the same set of ingredients to save time and money",
+      "Budgeting assistance that incorporates local cost data and personal financial experience",
+      "Deep integration with calendar and email to auto‑populate events, summarize messages, and organize spam",
+      "A more human‑like conversational ability: asking clarifying questions, providing contextual anecdotes, and showing genuine understanding",
+      "Reliable fact‑checking or source citation to reduce hallucinations"
+    ],
+    "verbatim_quotes": [
+      {
+        "quote": "Google Gemini, ChatGPT",
+        "topic": "AI tools used"
+      },
+      {
+        "quote": "Weekly",
+        "topic": "Frequency of AI use"
+      },
+      {
+        "quote": "I use AI to ask for practice questions. I either upload the objectives given to me by school or the PowerPoint, depending on what I'm using, and ask for a few test questions based on my profession and our board certification.",
+        "topic": "Study question generation"
+      },
+      {
+        "quote": "I really enjoy that online, there's a lot of different information on my certification exam. I like that AI can use that information from the Internet and then create questions based on the material I'm learning.",
+        "topic": "Value of AI‑generated practice questions"
+      },
+      {
+        "quote": "It helps generate questions that I might not have thought of, written in a style similar to my professors or board writers.",
+        "topic": "Benefit of AI mimicking professor style"
+      },
+      {
+        "quote": "I have used AI and Grammarly. ... Grammarly has overheated my computer, so it's more of a convenience thing.",
+        "topic": "Preference for web AI over installed editor"
+      },
+      {
+        "quote": "It seems like my computer is doing better on this website instead of software that's downloaded onto my laptop.",
+        "topic": "Performance advantage of web AI"
+      },
+      {
+        "quote": "There have been instances where I'll be asking it prompts, like brainstorming ideas, and it will provide me with information that isn't necessarily true.",
+        "topic": "Hallucination issue"
+      },
+      {
+        "quote": "It's hard to tell when it's giving me false information. Sometimes I might catch it, but maybe other times I don't realize it's providing false information.",
+        "topic": "Difficulty detecting false output"
+      },
+      {
+        "quote": "If it gives me a study that didn't actually happen and I'm trying to find those results online, it's more difficult to locate them because they don't exist.",
+        "topic": "Impact of false information on productivity"
+      },
+      {
+        "quote": "I think that it has led me to use AI for things like creating questions where I can refer to my own notes and know what's correct and what's incorrect, rather than letting it provide information and believing it at face value.",
+        "topic": "Mitigation strategy for hallucinations"
+      },
+      {
+        "quote": "3 - Moderate trust",
+        "topic": "Self‑rated trust level"
+      },
+      {
+        "quote": "For day-to-day life, I feel like it would be nice if AI could create meal prep ideas for me, based on the same ingredients, so that whenever I'm grocery shopping, I could shop efficiently.",
+        "topic": "Desired meal‑planning feature"
+      },
+      {
+        "quote": "Maybe budgeting assistance would also be nice.",
+        "topic": "Desired budgeting feature"
+      },
+      {
+        "quote": "As a student right now, my program does not allow us to have a job because it is so rigorous. So, with AI helping me to meal plan and suggest a few different meals that use the same ingredients, it would help me be cost‑effective by knowing what I need.",
+        "topic": "Motivation for meal‑planning assistance"
+      },
+      {
+        "quote": "I think that creating a sustainable budget would be really useful. It might provide more insight on the average cost of things, especially in my area, or what might be realistic based on what has worked for other people.",
+        "topic": "Motivation for budgeting assistance"
+      },
+      {
+        "quote": "Maybe it could take things from my calendar or my email and add them to my calendar automatically. Perhaps it can summarize different emails or be more efficient with where my emails are going.",
+        "topic": "Desired system integration"
+      },
+      {
+        "quote": "I think that being interviewed by AI was a lot more intelligent than I was expecting. There was a lot of feedback based on what I was saying. However, I think I prefer human interaction more.",
+        "topic": "Preference for human vs. AI interaction"
+      },
+      {
+        "quote": "The AI seems to pick up on buzzwords but doesn't fully grasp what I'm saying.",
+        "topic": "Perceived shallow understanding"
+      },
+      {
+        "quote": "There's no way for me to 100% tell that it understood the message I was saying, whereas a human might be able to ask for clarification and go more in‑depth...",
+        "topic": "Desire for clarifying dialogue"
+      },
+      {
+        "quote": "You just miss those small, minuscule conversations that connect humans together.",
+        "topic": "Value of human‑like small talk"
+      }
+    ],
+    "unique_insights": "The participant leverages AI not only as a study aid but as a surrogate exam‑writer, uploading course materials to generate board‑style questions that mimic professor phrasing—a use case that blends content creation with personalized learning. They switched from a dedicated editing app to a web AI primarily for performance reasons (overheating), highlighting hardware constraints as a driver of tool adoption. Their ideal assistant spans academic, culinary, and financial domains and explicitly calls for tight integration with personal data streams (calendar, email) while also demanding human‑like conversational depth and reliable fact‑checking, revealing a desire for a unified life‑manager rather than a set of siloed utilities."
+  },
+  {
+    "participant_id": "en_response_0022.txt",
+    "key_behaviors": [
+      "Uses ChatGPT daily",
+      "Uses AI to improve writing (grammar, cohesiveness) for case studies",
+      "Uses AI to create executive summaries of longer documents",
+      "Asks AI specific questions, e.g., to define steps in a process for research",
+      "Relies on AI to speed up content polishing and summarization"
+    ],
+    "pain_points": [
+      "Too many UI icons and features make the tool feel overwhelming",
+      "Understanding all available features requires a training tutorial that users don’t have time for",
+      "Uncertainty about the exact prompts needed to get desired results",
+      "Potentially intrusive integrations (e.g., AI reading email to create calendar entries) are unwanted"
+    ],
+    "trust_factors": [
+      "Rates trust in AI results as high (4/5)",
+      "Believes AI speeds up the writing and summarization process",
+      "Feels AI provides “a nice job of summarizing key information”"
+    ],
+    "desires": [
+      "An assistant that initiates a guided conversation, asking “What are you here for today?” and then probes for deeper needs",
+      "Context‑aware prompting that helps users formulate effective queries",
+      "Simplified, discoverable UI that reduces the need for tutorials",
+      "Non‑intrusive integration that respects privacy"
+    ],
+    "verbatim_quotes": [
+      {
+        "quote": "ChatGPT",
+        "topic": "AI tool used"
+      },
+      {
+        "quote": "Daily",
+        "topic": "Frequency of use"
+      },
+      {
+        "quote": "I generally use AI to improve my writing. Lately, I've been writing case studies, so I'll use it to help enhance the grammar and cohesiveness of some of the statements that I put together.",
+        "topic": "Writing assistance behavior"
+      },
+      {
+        "quote": "It speeds up the process of ensuring that the statements sound good and make sense.",
+        "topic": "Perceived value of AI in writing"
+      },
+      {
+        "quote": "I also use it to create summaries. For instance, I might take an entire case study worth of work and create an executive summary, and it does a nice job of summarizing key information.",
+        "topic": "Summarization behavior"
+      },
+      {
+        "quote": "I have used it to ask specific questions as well. For example, I might ask it to define steps in a certain process for research or something like that.",
+        "topic": "Information‑seeking behavior"
+      },
+      {
+        "quote": "4 - High trust",
+        "topic": "Trust level"
+      },
+      {
+        "quote": "I think I've been pretty happy with what I've used ChatGPT for in the past. However, an ideal assistant maybe would prompt through questions, like asking, \"What are you here for today?\" Then, it could listen to your answer and ask probing questions to get to what you're really looking for.",
+        "topic": "Desired guided interaction"
+      },
+      {
+        "quote": "What would be helpful is that you don't always know the exact prompts that ChatGPT or other AI tools need to be successful.",
+        "topic": "Need for prompt guidance"
+      },
+      {
+        "quote": "Sometimes, the amount of different features in the tools can be overwhelming, so having guidance would be very helpful.",
+        "topic": "Feature overload"
+      },
+      {
+        "quote": "For example, in Insider, for chat, there are lists of icons down the side and on the top. They're all over. In order to really understand what's fully available, you would need to take a training tutorial, I think, and people don't have time for that.",
+        "topic": "UI complexity and tutorial burden"
+      },
+      {
+        "quote": "I'm sure AI could look at my email and then create calendar entries, things like that, but that would be too intrusive and not something I would be interested in.",
+        "topic": "Privacy concern with intrusive integration"
+      },
+      {
+        "quote": "I think it went pretty well. I actually work in user research and I'm familiar with in-person interviews and moderated interviews. I liked that it took into account the person's responses and then modified probing questions afterward.",
+        "topic": "Positive perception of AI interview adaptability"
+      },
+      {
+        "quote": "However, it's difficult to ever replace the one-on-one interaction with an actual human, but I think this does a pretty good job.",
+        "topic": "Limitation of AI vs. human interaction"
+      },
+      {
+        "quote": "Face-to-face interaction with an actual human is hard to replace, as well as the nuances of being able to understand people's emotions and follow up on that.",
+        "topic": "Irreplaceable human nuance"
+      },
+      {
+        "quote": "I don't see how it would be possible for an AI interviewer to understand emotions.",
+        "topic": "Skepticism about AI emotional understanding"
+      }
+    ],
+    "unique_insights": "The participant, a professional user researcher, reports no major failures with ChatGPT yet expresses a strong desire for a conversational, guided prompting experience that reduces the cognitive load of figuring out prompts and navigating a cluttered UI. They value speed and quality in writing and summarization, trust the tool highly, but remain skeptical about AI’s ability to grasp emotional nuance, highlighting a clear boundary between functional assistance and human‑level empathy."
+  },
+  {
+    "participant_id": "en_response_0023.txt",
+    "key_behaviors": [
+      "Uses ChatGPT multiple times per day for personal tasks",
+      "Leverages ChatGPT to draft, summarize, and shorten personal emails",
+      "Employs ChatGPT for brainstorming and refining ideas in UX‑related passion projects",
+      "Saves conversation history in ChatGPT’s left‑hand panel and organizes by project folders",
+      "Relies on Google, news sites, and social media for real‑time information instead of ChatGPT",
+      "Provides feedback to ChatGPT when its suggestions diverge from intended direction"
+    ],
+    "pain_points": [
+      "Long email drafts require manual condensation; wants quicker summarisation",
+      "When AI suggestions stray from the intended idea, extra mental effort is needed to evaluate and correct them",
+      "Lack of seamless integration with Gmail and Apple Calendar forces copy‑paste workflow",
+      "ChatGPT does not provide real‑time data (weather, prices, news)",
+      "Uncertainty about how AI could connect to other productivity apps"
+    ],
+    "trust_factors": [
+      "Moderate trust (rated 3) in AI outputs",
+      "Trust increases when AI improves grammar, conciseness, and generates useful ideas",
+      "Trust decreases when AI leads the user away from their original concept",
+      "Confidence in AI’s ability to remember past conversations via saved chat history"
+    ],
+    "desires": [
+      "AI that builds directly on the user’s prompt without deviating from the original intent",
+      "Native integration or plug‑in with Gmail for drafting and editing emails within the email client",
+      "Connection to Apple Calendar (and other tools) for reminders and scheduling",
+      "More robust memory across sessions beyond the current folder view",
+      "Ability to access real‑time information without leaving the chat"
+    ],
+    "verbatim_quotes": [
+      {
+        "quote": "ChatGPT",
+        "topic": "Tool used"
+      },
+      {
+        "quote": "Multiple times per day",
+        "topic": "Frequency of use"
+      },
+      {
+        "quote": "I primarily use ChatGPT sometimes when I'm writing personal emails, ... I love to put it in ChatGPT to see if it can help me spruce it up and make it a bit better, ensuring that I'm providing the best information on my projects or emails, including grammar and content.",
+        "topic": "Purpose: email writing and quality improvement"
+      },
+      {
+        "quote": "when I'm using ChatGPT and I, like, ask it to, like, for example, summarize this long email or just make it a bit shorter so it's a lot, like, concise and easy to scan and not too much wording",
+        "topic": "Value: email summarisation and conciseness"
+      },
+      {
+        "quote": "For my passion projects, same kinda idea. ... when I'm, like, kinda stuck sometimes, I'm able to, like, put this idea in a chat GPT, and it's like, hey. What do you think about this? Or, how can I, like, make this a bit better kinda thing?",
+        "topic": "Purpose: brainstorming and idea refinement for passion projects"
+      },
+      {
+        "quote": "I'm working on a project where I'm trying to build a web application. ChatGPT helps me improve upon the ideas I have, which allows me to move on to the next step within the project or even sparks new ideas.",
+        "topic": "Use case: UX design and project progression"
+      },
+      {
+        "quote": "once I, like, put in, like, the first thing that I wanted like, the main focus and the main, like, offering of the app, ChatGPT, like, spit out some more ideas of things that I could include in the future",
+        "topic": "AI generating follow‑up ideas"
+      },
+      {
+        "quote": "I haven't really encountered a time where I wanted to use AI for something and couldn't",
+        "topic": "No major limitations experienced"
+      },
+      {
+        "quote": "No, I haven't used it to do any real-time information tasks. I typically use Google or watch the news a lot",
+        "topic": "Preference for other sources for live data"
+      },
+      {
+        "quote": "I think ChatGPT kind of already does that if you have an account. When you type in a prompt and stuff, I see that on the left-hand panel, it saves the conversation.",
+        "topic": "Conversation history as memory feature"
+      },
+      {
+        "quote": "3 - Moderate trust",
+        "topic": "Self‑rated trust level"
+      },
+      {
+        "quote": "the most important thing for the AI to do is to build upon your prompting, your idea, and not really make you stray away from anything",
+        "topic": "Desired AI behavior: stay aligned with user intent"
+      },
+      {
+        "quote": "When it takes me in a direction I didn't intend, I sit and think about what the AI returned and why it said that. However, sometimes I might not even go with that idea.",
+        "topic": "Handling AI suggestions that diverge"
+      },
+      {
+        "quote": "Maybe connecting it with Gmail or your Apple Calendar, stuff like that, to remind you of things.",
+        "topic": "Desired integration with email and calendar"
+      },
+      {
+        "quote": "I guess for Gmail, it would definitely help when I'm writing an email, so I don't always have to put my draft email, write it up in Gmail or in my Apple Notes, copy it, and then paste it into ChatGPT. I think it would be easier if it was a plug-in.",
+        "topic": "Desired plug‑in for seamless email drafting"
+      },
+      {
+        "quote": "I actually haven't been interviewed by AI yet. I'm sure that's probably going to come in the future.",
+        "topic": "Experience with AI interviews (none yet)"
+      },
+      {
+        "quote": "I guess that it feels a bit it doesn't feel too, like, strange because it's not it's just recording my voice and returning a prompt and, like, a, not a prompt. We're returning information.",
+        "topic": "Reaction to discovering AI interview"
+      },
+      {
+        "quote": "it feels more seamless because it's not like I mentioned before, it's not like a fake person or an AI-generated person on the other side of the computer.",
+        "topic": "Why AI interview felt natural"
+      }
+    ],
+    "unique_insights": "The participant reports no major functional failures despite heavy daily use, which is uncommon among users who typically encounter limitations. Their trust is moderate and hinges on the AI staying tightly aligned with their own ideas; they view AI divergence as a cognitive cost rather than a creative benefit. Additionally, the participant finds a text‑only AI interview experience surprisingly seamless because there is no visual avatar, highlighting that perceived 'human‑likeness' may not be necessary for comfort."
+  },
+  {
+    "participant_id": "whyser_20251115_175157.txt",
+    "key_behaviors": [
+      "Uses Claude as primary AI tool, replacing Google Search for a wide range of queries",
+      "Queries Claude 8‑10 times per day, often with 6‑10 exchange turns per query",
+      "Leverages Claude for personal tasks (movie times, parenting, DIY projects) and professional work (market research, peer‑review writing, security‑strategy analysis)",
+      "Relies on Claude’s memory feature to avoid using separate “project” folders",
+      "Copies Claude‑generated content into other work tools (e.g., Culture Amp) for final output"
+    ],
+    "pain_points": [
+      "Privacy and data‑security concerns; worries that personal or corporate data could be used to train models without consent",
+      "Lack of human‑like conversational flow; AI repeats pre‑written follow‑ups and fails to validate prior context",
+      "Distrust of free AI services (Gemini, OpenAI) due to low accuracy and poor answers",
+      "Professional credibility risk when presenting AI‑generated material to colleagues",
+      "Uncertainty about future AI/AGI behavior and its societal impact"
+    ],
+    "trust_factors": [
+      "Consistent, credible answers from Claude compared with other models",
+      "Ability of Claude to correct itself quickly when challenged",
+      "Memory/context retention across sessions, enabling personalized assistance",
+      "Perceived safety of Claude’s data handling versus other platforms"
+    ],
+    "desires": [
+      "Strong privacy safeguards: no training on user‑provided data, isolated conversation contexts",
+      "Transparent, enforceable data‑usage policies that prevent cross‑user data leakage",
+      "AI that validates and reflects prior user statements before asking follow‑ups",
+      "More human‑like engagement: contextual understanding, empathy, and natural dialogue",
+      "Mechanisms that make AI‑generated content feel trustworthy enough to share in professional settings"
+    ],
+    "verbatim_quotes": [
+      {
+        "quote": "Claude has very much replaced Google Search effectively.",
+        "topic": "Primary AI tool replacing traditional search"
+      },
+      {
+        "quote": "I think it really, really varies... movie viewing times... market research for work... building my son's crib... parenting questions.",
+        "topic": "Range of personal and professional use cases"
+      },
+      {
+        "quote": "maybe, like, at least eight to ten questions a day... each of them becoming easily six to ten, eight to ten exchanges.",
+        "topic": "Frequency and depth of interactions"
+      },
+      {
+        "quote": "Claude very much helped me produce the content that I then copy and paste it into Culture Amp, uh, as the peer review.",
+        "topic": "Using AI‑generated text in work tools"
+      },
+      {
+        "quote": "the fact that they can recall earlier conversations, be able to use context from previous conversations in the current conversation that really was a game changer.",
+        "topic": "Impact of memory/context feature"
+      },
+      {
+        "quote": "once Claude has memory now, I basically don't really use the project feature nearly as much because I can, in fact, now just go ahead and ask...",
+        "topic": "Shift away from project folders due to memory"
+      },
+      {
+        "quote": "for me, safety and privacy is really big... I feel a lot more comfortable to say that my child right now is ten month old...",
+        "topic": "Privacy as a deciding factor for platform choice"
+      },
+      {
+        "quote": "I would say three or four... Claude has more consistently provided what seemed like credible answers.",
+        "topic": "Overall trust rating for Claude"
+      },
+      {
+        "quote": "Claude is very quick to like, change directories change directions rather. And often do come back with the correct answer.",
+        "topic": "Trust built on self‑correction"
+      },
+      {
+        "quote": "personal context... lower stakes... professional context... higher stakes... I have very little interest in reading that document because it feels less researched or it feels less vetted.",
+        "topic": "Professional credibility concerns"
+      },
+      {
+        "quote": "my main concern is about how AI will use the information I give it... the uncertainty of how all of this information will be used in the future.",
+        "topic": "Future data‑use anxiety"
+      },
+      {
+        "quote": "I don't want AI to be able to have to share what I have shared with it with other people. Without consent.",
+        "topic": "Data sharing without consent"
+      },
+      {
+        "quote": "the transition or the progress from AI to AGI... it's not gonna be human development.",
+        "topic": "Skepticism about AGI governance"
+      },
+      {
+        "quote": "It feels like many AI companies are just trying to do as much as possible as fast as possible for the sake of revenue.",
+        "topic": "Profit‑driven AI development criticism"
+      },
+      {
+        "quote": "One of them is... not training on data. So that every AI conversation that is had is had in the privacy of that context.",
+        "topic": "Desired privacy safeguard"
+      },
+      {
+        "quote": "follow‑up questions needs to take into the con like, needs you need to take in the context of what I just said. Validate that context, reflect that context.",
+        "topic": "Need for contextual, validated follow‑ups"
+      },
+      {
+        "quote": "I think it's still quite limited. In fact, the reason why I use Claude to answer questions rather than have conversations. Is precisely because of this. It feels like there isn't that level of human engagement.",
+        "topic": "Limited conversational quality"
+      }
+    ],
+    "unique_insights": "The participant uniquely blends heavy personal reliance on a single AI (Claude) for both intimate parenting advice and high‑stakes professional analysis, while simultaneously expressing deep unease about any future use of that personal data for model training. Their trust hinges not just on answer accuracy but on the AI's ability to self‑correct and retain context, yet they remain skeptical that any company can guarantee privacy as AI moves toward AGI. This juxtaposition of high daily dependence and profound privacy anxiety, plus the call for a strict ‘no‑training‑on‑user‑data’ rule, stands out as a distinctive perspective."
+  },
+  {
+    "participant_id": "whyser_20251115_210437.txt",
+    "key_behaviors": [
+      "Uses AI (ChatGPT preferred over Gemini) for APA citation formatting and checking.",
+      "Asks AI for terminology explanations and quick learning beyond simple Google searches.",
+      "Leverages AI to craft resumes and cover letters using detailed prompts.",
+      "Experiments with AI image‑generation for UX research prototypes, but finds results underwhelming.",
+      "Uses AI about once per week for personal academic tasks.",
+      "Avoids AI for school essay writing because assignments discourage it.",
+      "Envisions AI automating participant‑recruitment screening and ranking.",
+      "Wants AI to learn personal preferences over time without repeated prompting."
+    ],
+    "pain_points": [
+      "AI image‑creation tools do not meet quality expectations for research visuals.",
+      "AI does not automatically show its sources, quotes, or reasoning; user must ask each time.",
+      "Need to double‑check AI output for accuracy, especially in high‑stakes professional reports.",
+      "Feelings of low trust for critical tasks; rating of 4/5 reflects cautious stance.",
+      "Interview experience felt awkward because the AI assumed the participant was finished speaking during pauses.",
+      "Simulated typing sounds during the AI interview were distracting."
+    ],
+    "trust_factors": [
+      "Provides clear explanations of why an answer is formatted a certain way (e.g., APA rules).",
+      "Consistently delivers high‑quality output (ChatGPT perceived as better than Gemini).",
+      "Shows citations, quotes, and timestamps by default.",
+      "Transparency about the reasoning process builds confidence.",
+      "Ability to verify and edit AI‑generated content before final use."
+    ],
+    "desires": [
+      "AI should automatically include its work (sources, quotes, timestamps) without being prompted.",
+      "Assistant should learn the user’s preferences upfront and adapt over time.",
+      "Streamlined, proactive suggestions that anticipate needed detail (e.g., “I noticed you need timestamps, here they are”).",
+      "Automation of participant‑recruitment screening to rank best‑fit candidates.",
+      "Interview interface that lets the user signal when they are still thinking before moving on.",
+      "More personal rapport at the start of AI‑driven conversations (e.g., brief warm‑up, clear timeline)."
+    ],
+    "verbatim_quotes": [
+      {
+        "quote": "I use Google Gemini a little bit for school. I'm typically asking you questions, especially when I wanna get things cited correctly in, like, APA format.",
+        "topic": "AI usage for citation formatting"
+      },
+      {
+        "quote": "I probably use maybe, like, once a week. And, generally, I'm pretty satisfied.",
+        "topic": "Frequency and satisfaction"
+      },
+      {
+        "quote": "I found a detailed prompt online that I was able to use and know, just based on the in-depth nature of the prompt, I was able to get really good like, outputs.",
+        "topic": "Effective prompting for resumes/cover letters"
+      },
+      {
+        "quote": "I've tried to use those tools to create, like, images that I could pitch use in research... they've been quite underwhelming.",
+        "topic": "Image‑generation disappointment"
+      },
+      {
+        "quote": "If I make a recommendation or say, this is a quote that was used in the research... I need to be comfortable in what I'm putting out there.",
+        "topic": "High‑stakes trust in professional reports"
+      },
+      {
+        "quote": "Usually, like, in the case of the APA formatting, that it doesn't just, like, give me what the correct answer is, that it's actually, like, explaining here's what why I did it this way.",
+        "topic": "Trust factor: explanation of reasoning"
+      },
+      {
+        "quote": "Say four... I basically have my rating defined on like, that I'm generally not that trusting. But if it's doing a good job and giving me reasonable explanation, then I'm usually gonna trust it.",
+        "topic": "Overall trust rating and conditions"
+      },
+      {
+        "quote": "I want that stuff to be shown by default instead of having to ask for it upfront.",
+        "topic": "Desire for automatic source/quote display"
+      },
+      {
+        "quote": "It would be nice to just explain that upfront or have it learn over time. What I need so that I don't have to ask it each time.",
+        "topic": "Desire for learning preferences"
+      },
+      {
+        "quote": "I do a lot of recruiting for participants... it would be great to have some of that automated so that it could just say, here are the people that best fit your study.",
+        "topic": "Automation of participant recruitment"
+      },
+      {
+        "quote": "It's been a little awkward because... I'm somebody who has a lot of pauses... sometimes I feel like I'm a little on the clock to provide a timely response before the AI jumps in.",
+        "topic": "Interview timing discomfort"
+      },
+      {
+        "quote": "I think if I could just make it clear that like, hey. I'm still thinking... I don't want it to assume that I'm officially done before I'm really done.",
+        "topic": "Desired pause‑signaling feature"
+      },
+      {
+        "quote": "The positive aspect was, like, it did prompt me for like, a follow‑up question instead of just sticking to, like, a standard set of questions.",
+        "topic": "Positive interview behavior"
+      }
+    ],
+    "unique_insights": "The participant treats AI as a potential \"voice\" for professional research reports, requiring the system to not only generate content but also automatically provide verifiable sources and reasoning. They desire an assistant that proactively learns and anticipates the level of detail needed (e.g., timestamps, quotes) without repeated prompting, and they see a clear productivity gain in automating participant‑recruitment screening—saving up to an hour per study. Additionally, the interview experience highlighted a novel need for a UI cue that signals when the user is still formulating thoughts, a feature rarely considered in standard AI chat interfaces."
+  },
+  {
+    "participant_id": "whyser_20251117_132849.txt",
+    "key_behaviors": [
+      "Uses ChatGPT about once a month for fun, creative tasks (e.g., turning pet photos into cartoons)",
+      "Does not currently use AI for other personal or work tasks",
+      "Considers future use of AI for professional writing, especially emails to senior management",
+      "Manually drafts process‑flow explanations by recalling steps and bullet‑pointing them",
+      "Rereads emails before sending and waits half an hour to gain perspective"
+    ],
+    "pain_points": [
+      "Lacks software to create cartoon versions of pet photos, prompting occasional AI use",
+      "Forgets steps when manually outlining process flows, risking omitted information",
+      "Struggles to phrase emails in conflict situations (billing disputes, process disagreements, coding references)",
+      "Feels email tone can become emotional or defensive and worries about misinterpretation",
+      "Needs a second opinion on email drafts but currently has no easy way to obtain it"
+    ],
+    "trust_factors": [
+      "Desires AI to provide professional, neutral tone suggestions",
+      "Wants AI to act as a reliable “second reader” that can catch tone and clarity issues",
+      "Looks for AI that can suggest re‑phrasing and improve clarity without introducing errors"
+    ],
+    "desires": [
+      "An AI assistant that can draft or polish emails to senior executives, making them sound more professional",
+      "Features that help map out and verify every step of a process flow before writing the email",
+      "Tone‑adjustment tools that convert emotional or defensive language into neutral, business‑like language",
+      "Instant feedback on whether an email sounds good and professional",
+      "A way to get a quick, trustworthy second opinion on email drafts without involving a human colleague"
+    ],
+    "verbatim_quotes": [
+      {
+        "quote": "I used ChatGPT every once a month if that no other AI use.",
+        "topic": "Current AI usage frequency"
+      },
+      {
+        "quote": "Silly ones like turning my cats or dogs photos into cartoon characters.",
+        "topic": "Types of tasks performed with AI"
+      },
+      {
+        "quote": "Because I don't have the software to do it.",
+        "topic": "Reason for using AI for creative tasks"
+      },
+      {
+        "quote": "I don't really find the use for them. Right now. That could change in the future.",
+        "topic": "Motivation / barriers to broader AI adoption"
+      },
+      {
+        "quote": "Work tasks maybe.",
+        "topic": "Potential future AI use"
+      },
+      {
+        "quote": "Maybe writing a letter.",
+        "topic": "Specific work task considered"
+      },
+      {
+        "quote": "Making it sound more professional.",
+        "topic": "Desired outcome of AI assistance"
+      },
+      {
+        "quote": "You wanna sound like you have the job you want versus the job you have.",
+        "topic": "Professional image motivation"
+      },
+      {
+        "quote": "Use it for emails with those in executive or higher levels of management roles.",
+        "topic": "Target audience for AI‑assisted communication"
+      },
+      {
+        "quote": "Pose better questions.",
+        "topic": "Improvement AI could provide in emails"
+      },
+      {
+        "quote": "Add clarity.",
+        "topic": "Improvement AI could provide in emails"
+      },
+      {
+        "quote": "Explaining process flows.",
+        "topic": "Specific content area where AI help is wanted"
+      },
+      {
+        "quote": "Helping explain the process flow more clearly and efficiently.",
+        "topic": "Desired AI benefit"
+      },
+      {
+        "quote": "I try to do the process flow myself by trying to remember each of the steps Challenges would include skipping a step",
+        "topic": "Current pain point when drafting process explanations"
+      },
+      {
+        "quote": "Trying to remember the process and type it as I go along. Or bullet point it But the challenge arises that I might forget us. Step along the way.",
+        "topic": "Pain point of forgetting steps"
+      },
+      {
+        "quote": "Help with troubleshooting emails, to vendors and clients.",
+        "topic": "Desired AI support area"
+      },
+      {
+        "quote": "Taking the guesswork out of writing the emails or how to phrase certain things.",
+        "topic": "Desired AI function"
+      },
+      {
+        "quote": "Any areas of conflict",
+        "topic": "Trigger for needing AI assistance"
+      },
+      {
+        "quote": "Disagreement in when a bill was paid, how a process runs, and the type of coding or I know. The type of coding that would be applicable to the invoices.",
+        "topic": "Specific conflict scenarios"
+      },
+      {
+        "quote": "I'll just do a Teams call so nothing gets misinterpreted.",
+        "topic": "Current coping strategy for conflict"
+      },
+      {
+        "quote": "Making a phone call is easier to discuss everything out in the open, and you can hear the people's tone and how they receive your tone, Whereas in an email or text message, it could get misinterpreted.",
+        "topic": "Perceived reliability of voice vs. email"
+      },
+      {
+        "quote": "If the person's unavailable or in meetings all day.",
+        "topic": "When email is still necessary"
+      },
+      {
+        "quote": "I reread them before I send them out.",
+        "topic": "Current quality‑check practice"
+      },
+      {
+        "quote": "Having someone else read it.",
+        "topic": "Desired second opinion"
+      },
+      {
+        "quote": "That's where AI could help.",
+        "topic": "AI as a second reader"
+      },
+      {
+        "quote": "Submitting my text to the AI and asking if it sounds good. And professional.",
+        "topic": "Proposed AI interaction"
+      },
+      {
+        "quote": "Suggestions on how to rephrase certain things. Or change the tone",
+        "topic": "Specific feedback wanted from AI"
+      },
+      {
+        "quote": "Changes from any emotional or defensive email tone, to a more professional neutral tone.",
+        "topic": "Tone adjustment goal"
+      },
+      {
+        "quote": "I reread it. Before I send it out. But I wait. Half an hour or more before I send out",
+        "topic": "Delay strategy for tone assessment"
+      },
+      {
+        "quote": "Don't even know where to begin.",
+        "topic": "Uncertainty about AI feature set"
+      }
+    ],
+    "unique_insights": "The participant treats AI primarily as an occasional novelty tool for creative fun, yet envisions a concrete professional role for it—acting as a silent editor and process‑flow verifier for high‑stakes emails. Their trust hinges on AI providing a reliable, neutral second opinion, especially to replace a human reviewer when none is available. They also reveal a strong preference for voice communication to resolve conflicts, highlighting an opportunity for AI to bridge the gap between real‑time conversation and written documentation."
+  },
+  {
+    "participant_id": "whyser_20251117_134714.txt",
+    "key_behaviors": [
+      "Uses AI for simple, structured factual queries",
+      "Uses AI to add events to calendar and schedule",
+      "Uses ChatGPT and Boost",
+      "Uses AI only a couple of times per week",
+      "Prefers native UI because it is faster",
+      "Avoids AI when dealing with sensitive data",
+      "Avoids AI because of hallucination risk"
+    ],
+    "pain_points": [
+      "AI often hallucinates or provides inaccurate answers",
+      "Responses can be generic and lack useful detail",
+      "AI does not have deep contextual understanding of source material",
+      "AI is slower than using the built‑in UI of apps",
+      "AI cannot handle complex work‑related questions that require expertise",
+      "No reliable way to feed sensitive personal data into AI"
+    ],
+    "trust_factors": [
+      "High accuracy of answers",
+      "Reliability – ideally 100% correct",
+      "Absence of hallucinations",
+      "Deep domain expertise and contextual awareness",
+      "Consistent performance across queries"
+    ],
+    "desires": [
+      "An AI that is perfectly accurate all the time",
+      "Deep, expert‑level understanding that can provide personalized insights",
+      "Speed comparable to native app interfaces",
+      "Ability to handle complex, context‑rich tasks without generic filler"
+    ],
+    "verbatim_quotes": [
+      {
+        "quote": "I use AI for things that are really simple and structured, like asking questions where online, where I want specific answers.",
+        "topic": "General AI usage pattern"
+      },
+      {
+        "quote": "I use the AI to calendar and schedule I think that's probably it for my personal life.",
+        "topic": "Specific task – scheduling"
+      },
+      {
+        "quote": "ChatGPT, and then internally, I and boost.",
+        "topic": "Tools used"
+      },
+      {
+        "quote": "I use it maybe a couple times a week.",
+        "topic": "Frequency of use"
+      },
+      {
+        "quote": "Types of questions are, like, just basic facts about the world, like dates, names, greeting information, just like what you might Google search.",
+        "topic": "Typical query content"
+      },
+      {
+        "quote": "I find the AI most helpful for things where doesn't require a lot of thinking, ... accuracy is more likely.",
+        "topic": "Perceived strength of AI"
+      },
+      {
+        "quote": "I mean, most of the things that I do in my life, I do not use AI because AI is likely to hallucinate, and I just don't have access to my sensitive data.",
+        "topic": "Reason for not using AI"
+      },
+      {
+        "quote": "AI isn't as fast as just using the UI that I use in all of my apps and services.",
+        "topic": "Speed limitation"
+      },
+      {
+        "quote": "There are oftentimes where AI isn't accurate.",
+        "topic": "Inaccuracy"
+      },
+      {
+        "quote": "The direct answers are often or I have seen AI be incorrect or provide generic answers that may on the surface appear correct, but are not at a level of detail that's useful.",
+        "topic": "Generic / low‑detail responses"
+      },
+      {
+        "quote": "Ask it a general question about a study that you've completed. It will just generally say things like, need more personalization or mobile parity or whatever.",
+        "topic": "Work‑related generic answer"
+      },
+      {
+        "quote": "because AI is not actually thinking. It just is taking the inputs and providing what is, like, a reasonable or a response that seems reasonable but it's not it doesn't actually have deep context or understanding about the source material.",
+        "topic": "Lack of true understanding"
+      },
+      {
+        "quote": "It would just need, like, years of understanding of like, it's just, like, how expertise is developed.",
+        "topic": "Need for expert knowledge"
+      },
+      {
+        "quote": "The technology would have to be reliably accurate a hundred percent of the time, which is unlikely.",
+        "topic": "Trust requirement"
+      },
+      {
+        "quote": "Accuracy. Because if it's not going to do it accurately, then what's the point of doing it at all?",
+        "topic": "Core trust factor"
+      },
+      {
+        "quote": "It was fine. I thought the keyboard clicking sounds were unnecessary.",
+        "topic": "Interview experience feedback"
+      },
+      {
+        "quote": "AI is obviously not doing that. So it doesn't need to do that.",
+        "topic": "Interview experience feedback"
+      },
+      {
+        "quote": "there were a lot of double barreled so I wasn't it was hard to follow some of your questions.",
+        "topic": "Interview design feedback"
+      }
+    ],
+    "unique_insights": "The participant treats AI as a low‑stakes, fact‑retrieval tool comparable to a search engine and explicitly refuses to rely on it for any task that requires deep understanding, expertise, or handling of sensitive data. Their trust threshold is absolute—only 100% accuracy would make them comfortable—highlighting a stark contrast with many users who accept occasional errors. Additionally, they critique the interview interface itself (keyboard sounds, double‑barreled questions), indicating that even meta‑experience with AI systems can affect user perception."
+  },
+  {
+    "participant_id": "whyser_20251117_145550.txt",
+    "key_behaviors": [
+      "Uses Claude almost every day for baby‑related questions, recipe creation, and translation tasks",
+      "Relies on Claude‑built app (by husband) to track running data",
+      "Employs AI tools (Clotter, TrackGPT) for quick information look‑ups and synthesis",
+      "Double‑checks AI‑generated outputs before using them in personal or professional deliverables",
+      "Prefers to invoke AI only when needed, keeping it out of the primary workflow UI"
+    ],
+    "pain_points": [
+      "AI interfaces can clutter the UI and get in the way of primary tasks",
+      "Lack of visible prompts/questions makes the interaction feel static and “talking to the void”",
+      "Interview with an AI felt “annoying” because it was long, not dynamic, and didn’t show the questions",
+      "No summarization or echo‑back of user input, leading to uncertainty whether the AI is listening"
+    ],
+    "trust_factors": [
+      "Higher trust when AI provides suggestions but the user makes the final decision",
+      "Lower trust when AI acts on the user’s behalf without explicit control",
+      "Need for the AI to be transparent (show questions, summarize input) to demonstrate it is listening",
+      "Reliance on personal verification (e.g., double‑checking translations) to protect reputation"
+    ],
+    "desires": [
+      "A streamlined, on‑demand AI that does not intrude on existing UI",
+      "Ability to summon AI only for specific tasks without it “getting in the way”",
+      "Real‑time summarization or echo of user statements so the user can confirm accuracy",
+      "Clear visual display of the AI’s questions/prompts during a conversation"
+    ],
+    "verbatim_quotes": [
+      {
+        "quote": "I use Claude to ask specific questions or baby related questions and cooking, I think it's really helpful when you have more specific things.",
+        "topic": "General AI usage for personal tasks"
+      },
+      {
+        "quote": "Think I probably use it almost every day. It's helpful for I had to create a recipe for someone that a friend that just had a baby ... My husband built a app through Claude to track his runs.",
+        "topic": "Frequency and variety of Claude usage"
+      },
+      {
+        "quote": "I can't think of times that it didn't [meet my expectations].",
+        "topic": "Satisfaction with outcomes"
+      },
+      {
+        "quote": "Sometimes AI can get in the way of things. Like, just clutter the UI of something a little bit too much.",
+        "topic": "Pain point: UI clutter"
+      },
+      {
+        "quote": "I think like, when there's specific tasks that I'm trying to execute, just not getting in my way of those things and being something that I can go to when I need it rather than ...",
+        "topic": "Desired AI behavior: non‑intrusive, on‑demand"
+      },
+      {
+        "quote": "So I think it's maybe less trusting when it's, um, doing things on my behalf, like, I don't know. Without, like, my ... that's why I'm so comfortable with Claude because it doesn't do anything for me. It's more on my terms of when I engage with it.",
+        "topic": "Trust factor: control vs. autonomy"
+      },
+      {
+        "quote": "I guess I don't mind having AI's input. For any kind of decision as long as I'm the one making the decision.",
+        "topic": "Trust factor: final decision remains with user"
+      },
+      {
+        "quote": "I was asking AI to translate a Spanish recipe for me. And it gave me a translation, but I still kinda looked it over and double checked that it was making sense.",
+        "topic": "Verification behavior"
+      },
+      {
+        "quote": "Because, ultimately, I'm the person delivering you know, the recipe or the final report, and I have to sign off on it. ... So I'm not going to be, risking my own reputation in that way.",
+        "topic": "Motivation for double‑checking"
+      },
+      {
+        "quote": "Little annoying at times.",
+        "topic": "Interview experience annoyance"
+      },
+      {
+        "quote": "It starts to get a little long and not as dynamic as talking to a person ... seeing the question would help ... rather than just the dot blinking at me.",
+        "topic": "Pain point: lack of visible prompts"
+      },
+      {
+        "quote": "Showing me the questions when you're talk giving me a question ... maybe even, like, summarizing what I'm saying back to me ... making it a little bit more dynamic.",
+        "topic": "Desire: summarization/echo of user input"
+      },
+      {
+        "quote": "You would show me that it's actually listening to what I'm saying and give me an opportunity to correct it?",
+        "topic": "Trust factor: transparency and correction"
+      }
+    ],
+    "unique_insights": "The participant treats AI as an extensible tool that must stay under their direct control, even for low‑stakes tasks like recipe translation. They explicitly link UI clutter to reduced willingness to engage, and they request real‑time visual feedback (displayed questions and summarization) as a core trust mechanism—suggesting that perceived attentiveness, not just output quality, drives trust."
+  }
+]

@@ -1,0 +1,85 @@
+*Q1*
+MODERATOR: Z jakich narzędzi AI korzystałeś(-aś) w ciągu ostatnich 3 miesięcy do prywatnych celów (nie związanych z pracą)? Zaznacz wszystkie, które dotyczą.
+PARTICIPANT: ChatGPT
+
+*Q2*
+MODERATOR: Jak często korzystasz z narzędzi AI do prywatnych spraw?
+PARTICIPANT: Raz w tygodniu
+
+*Q3*
+MODERATOR: Chciałbym teraz lepiej zrozumieć, jak zwykle korzystasz z AI i gdzie obecne narzędzia nie spełniają oczekiwań...
+PARTICIPANT: Dalej
+
+*Q4*
+MODERATOR: Do jakich najczęstszych prywatnych zadań używasz AI? Opowiedz o kilku przykładach.
+
+PARTICIPANT: AI używam do rzeczy pozwalających mi na gromadzenie informacji lub uzyskanie informacji, co w danym kraju mogę zwiedzać.
+
+MODERATOR: Wspomniałeś o planowaniu podróży. Jak dokładnie wykorzystujesz AI do zbierania informacji o miejscach do zwiedzania?
+
+PARTICIPANT: Planuję sobie, co w danym dniu mogę zwiedzić w danym kraju, żeby nie jeździć z jednego końca miasta do drugiego końca miasta.
+
+MODERATOR: Jak AI pomaga Ci optymalizować te trasy zwiedzania? Jakie konkretnie informacje od niego otrzymujesz?
+
+PARTICIPANT: Najlepiej poruszać się po danym mieście, korzystając z metra, komunikacji miejskiej, takiej jak tramwaje, autobusy czy pociągi. Zastanawiam się, czy zdążę zwiedzić dwie atrakcje turystyczne w jednym dniu.
+
+*Q5*
+MODERATOR: Opowiedz o sytuacji, kiedy chciałeś(-aś) skorzystać z AI, ale nie mogłeś(-aś). Jakie to było zadanie? Co uniemożliwiło Ci użycie AI?
+
+PARTICIPANT: Nie miałem jeszcze takiej sytuacji, chociaż wiem, że AI cały czas się uczy i należy korzystać z tego z głową, bo nie wszystkie informacje są sprawdzane.
+
+*Q6*
+MODERATOR: Jak bardzo ufasz wynikom lub sugestiom, które otrzymujesz od narzędzi AI?
+
+PARTICIPANT: 3 – Ufam umiarkowanie
+
+*Q7*
+MODERATOR: Na koniec chciałbym dowiedzieć się, jak według Ciebie powinien wyglądać idealny asystent AI...
+PARTICIPANT: Dalej
+
+*Q8*
+MODERATOR: Wyobraź sobie, że masz idealnego osobistego asystenta AI. Jakie najważniejsze rzeczy powinien dla Ciebie robić? Czym byłby lepszy od obecnych narzędzi?
+
+PARTICIPANT: Najlepiej by było, żeby pokazywał informacje sprawdzone, a nie fake, Linux.
+
+MODERATOR: Rozumiem, że chcesz mieć pewność co do wiarygodności informacji. Jakie inne funkcje byłyby dla Ciebie ważne w idealnym asystencie AI?
+
+PARTICIPANT: Żeby w przyszłości umiał pomagać w codziennym życiu, ale nie zastępował kontaktu face to face.
+
+MODERATOR: Jak konkretnie wyobrażasz sobie tę pomoc w codziennym życiu? Jakie zadania miałby wykonywać?
+
+PARTICIPANT: Nie jestem na coś fory i czy akurat tą konkretną chorobą od razu muszę się udać do specjalisty, czy mogę poczekać na wizytę?
+
+*Q9*
+MODERATOR: Jak taki asystent AI mógłby być połączony z innymi systemami, z których korzystasz (np. kalendarz, e-mail itp.)? Co by Ci to umożliwiło?
+
+PARTICIPANT: Z kalendarzem mogłoby mi przypominać o rzeczach, które mam tam zapisane.
+
+MODERATOR: Oprócz kalendarza, z jakimi innymi systemami chciałbyś/chciałabyś połączyć asystenta AI?
+
+PARTICIPANT: Może z niektórymi sprzętami domowymi.
+
+MODERATOR: Jakie konkretnie sprzęty domowe chciałbyś/chciałabyś połączyć z asystentem AI i co miałby z nimi robić?
+
+PARTICIPANT: Ekspres do kawy, lodówka, która informowałaby o tym, że coś się już skończyło. No, tyle.
+
+*Q10*
+MODERATOR: Zanim skończymy, chciałbym poznać Twoje wrażenia z rozmowy z AI...
+
+PARTICIPANT: Dalej
+
+*Q11*
+MODERATOR: Jak się czułeś(-aś), odpowiadając na pytania AI zamiast człowieka? Czym to doświadczenie różniło się od rozmowy z osobą?
+
+PARTICIPANT: AI jeszcze nie do końca potrafi w danym języku wysławiać się poprawnie, więc wolałem kontaktować się z osobą z tej strony.
+
+MODERATOR: Czy mógłbyś dokładniej wyjaśnić, co sprawia, że wolisz rozmawiać z człowiekiem? Jakie konkretne problemy językowe zauważyłeś w rozmowie z AI?
+
+PARTICIPANT: Problemy gramatyczne a rozmowy face to face nie zastąpi sztuczna inteligencja.
+
+MODERATOR: Wspomniałeś, że rozmowy twarzą w twarz są niezastąpione. Co konkretnie brakuje Ci w interakcji z AI?
+
+PARTICIPANT: W interakcji z AI, jeżeli rozmawiam twarzą w twarz, widzę, jak osoba reaguje na zadane pytania, jak odpowiada, jakie są jej mimiki twarzy.
+
+*Q12*
+MODERATOR: Dziękujemy za podzielenie się swoimi doświadczeniami i opiniami na temat narzędzi AI! Twoje odpowiedzi pomogą nam tworzyć lepszych asystentów AI, którzy naprawdę odpowiadają na potrzeby ludzi.

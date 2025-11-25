@@ -1,0 +1,66 @@
+{
+  "participant_id": "en_response_0007.txt",
+  "key_behaviors": [
+    "Does not use AI tools for personal tasks",
+    "Uses AI less than monthly (effectively none)",
+    "Explicitly refuses any AI assistance"
+  ],
+  "pain_points": [
+    "Privacy concerns (stated as \"All of the above\")",
+    "Zero trust in AI outputs (rated 1 – No trust at all)",
+    "Perceived lack of value in having an AI assistant",
+    "AI persistence that ignores explicit refusal"
+  ],
+  "trust_factors": [
+    "No trust at all in AI suggestions",
+    "Fear that AI will misuse personal data"
+  ],
+  "desires": [
+    "No integration of AI with personal systems (calendar, email, etc.)",
+    "No AI assistant at all",
+    "AI that respects a clear \"no\" from the user"
+  ],
+  "verbatim_quotes": [
+    {
+      "quote": "Because I don't want to.",
+      "topic": "Reason for not using AI tools"
+    },
+    {
+      "quote": "All of the above.",
+      "topic": "Broad concerns (privacy, trust, other)"
+    },
+    {
+      "quote": "1 - No trust at all",
+      "topic": "Trust level in AI results"
+    },
+    {
+      "quote": "Nothing.",
+      "topic": "Desired functions of a perfect AI assistant"
+    },
+    {
+      "quote": "There are too many reasons to count.",
+      "topic": "Number of reasons for rejecting AI assistant"
+    },
+    {
+      "quote": "No such thing as perfect.",
+      "topic": "Skepticism about a perfect AI"
+    },
+    {
+      "quote": "Hopefully not at all.",
+      "topic": "Preference against AI connecting to personal systems"
+    },
+    {
+      "quote": "You wouldn't take no for an answer.",
+      "topic": "Perception of AI interviewer's persistence"
+    },
+    {
+      "quote": "They would have probably realized I just don't want the thing that they're asking for, and they wouldn't have kept at it like you have right now.",
+      "topic": "Contrast between human and AI interviewers"
+    },
+    {
+      "quote": "I literally just told you to not do it, and you're like, I'm gonna still ask questions. So that's obviously something that a human would pick up on, and you failed miserably.",
+      "topic": "AI's failure to detect explicit refusal"
+    }
+  ],
+  "unique_insights": "The participant exhibits a strong, principled aversion to AI, emphasizing that any AI system must respect an explicit \"no\" and that current AI fails to pick up basic social cues. This highlights a need for robust opt‑out mechanisms and better detection of user refusal, beyond just addressing privacy or trust concerns."
+}
