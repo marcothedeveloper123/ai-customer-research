@@ -1,0 +1,94 @@
+/* Main TUI Application Styles */
+
+Screen {
+    background: $surface;
+}
+
+/* Navigation Pane (Left) */
+#navigation-pane {
+    width: 30%;
+    border: solid $primary;
+    background: $surface-darken-1;
+}
+
+#navigation-pane-title {
+    background: $primary;
+    color: $text;
+    padding: 1;
+    text-align: center;
+    text-style: bold;
+}
+
+/* Content Pane (Right) */
+#content-pane {
+    width: 70%;
+    border: solid $accent;
+    background: $surface;
+}
+
+#content-pane-title {
+    background: $accent;
+    color: $text;
+    padding: 1;
+    text-align: center;
+    text-style: bold;
+}
+
+/* Chat Pane (Bottom) */
+#chat-pane {
+    height: 8;
+    border: solid $success;
+    background: $surface-darken-1;
+    dock: bottom;
+}
+
+#chat-pane-title {
+    background: $success;
+    color: $text;
+    padding: 0 1;
+    text-style: bold;
+}
+
+/* Tree widget styling */
+Tree {
+    scrollbar-gutter: stable;
+    background: $surface-darken-1;
+    color: $text;
+}
+
+Tree:focus {
+    border: solid $accent;
+}
+
+Tree > .tree--cursor {
+    background: $accent;
+    color: $text;
+}
+
+/* Markdown viewer styling */
+Markdown {
+    padding: 1;
+    background: $surface;
+    color: $text;
+}
+
+/* Status bar */
+.status-bar {
+    dock: bottom;
+    height: 1;
+    background: $primary;
+    color: $text;
+}
+
+/* Loading indicator */
+.loading {
+    content-align: center middle;
+    color: $accent;
+}
+
+/* Notifications */
+.notification {
+    background: $success;
+    border: solid $success-darken-1;
+    padding: 1;
+}
